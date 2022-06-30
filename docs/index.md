@@ -1,6 +1,6 @@
-## Welcome jsi2jsi Page
+## Welcome to jsi2jsi Page
 
-Some exercices [PL] (https://jsi2jsi.github.io/SfL/docs/1-Prtl-PL.htm)
+Some exercices [PL](https://jsi2jsi.github.io/SfL/docs/1-Prtl-PL.htm)
 You can use the [editor on GitHub](https://github.com/jsi2jsi/SL/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
