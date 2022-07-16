@@ -1,0 +1,33 @@
+{
+  "title": "M0-S3-PL",
+  "author": "Jesús Soberanes Islas",
+  "date": "15/07/22",
+  "description": {
+    "es": "Evaluación en PL"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "m0-s3-pl.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 6,
+  "totalSize": 105711,
+  "files": [
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "m0-s3-pl.jclic",
+    "m0-s3-pl.jclic.js",
+    "mapa_evaluacion_en_pl-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
