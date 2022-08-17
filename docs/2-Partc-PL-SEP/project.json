@@ -1,0 +1,36 @@
+{
+  "title": "Parc-en-PL",
+  "author": "Jesús Soberanes Islas",
+  "date": "17/08/22",
+  "description": {
+    "es": "parcicipacion en PL"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "2parc-en-pl.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 4,
+  "mediaFiles": 9,
+  "totalSize": 163393,
+  "files": [
+    "2parc-en-pl.jclic",
+    "2parc-en-pl.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "participas_pl-01-resized.jpg",
+    "participas_pl-02-resized.jpg",
+    "participas_pl-03-resized.jpg",
+    "participas_pl-05-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
