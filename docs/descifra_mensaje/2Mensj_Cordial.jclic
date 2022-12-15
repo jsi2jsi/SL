@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JClicProject name="2Mensj_Cordial" version="0.1.3">
+ <settings>
+  <title>Descifra_mensaje</title>
+  <revision description="created" date="12/14/22" />
+  <descriptors />
+  <meta_langs>es</meta_langs>
+  <descriptions>
+   <description language="es" />
+  </descriptions>
+  <license type="by-nc-sa" url="https://creativecommons.org/licenses/by-nc-sa/4.0" />
+ </settings>
+ <sequence>
+  <item id="start" name="Redacta tu orientacion" />
+ </sequence>
+ <activities>
+  <activity class="@text.Order" name="Redacta tu orientacion" code="" type="orderParagraphs">
+   <description />
+   <messages>
+    <cell type="previous">
+     <style>
+      <gradient source="0xFF9999" dest="0xFF66CC" angle="209" />
+     </style>
+     <p>Considerando las pautas de cordialidad, ordena el texto del mensaje.</p>
+    </cell>
+    <cell type="initial">
+     <style>
+      <color background="0xCCFFCC" />
+     </style>
+     <p>Atendiendo a las pautas de la comunicación cordial, expón tu recomendación</p>
+    </cell>
+    <cell type="final">
+     <style>
+      <gradient source="0xFFCCCC" dest="0xCCFFCC" angle="209" />
+     </style>
+     <p>Muy bien, has tenido la oportunidad de ejercitar con los elementos para emitir un mensaje y además identificar exponer indicaciones.</p>
+    </cell>
+    <cell type="finalError">
+     <style>
+      <gradient source="0xFF9999" dest="0xFF66CC" angle="209" />
+     </style>
+     <p>¡Bueno!, un poco de atender con detalle la redacción y ejercitar la redacción de mensajes y del cómo aportar indicciones.</p>
+    </cell>
+   </messages>
+   <settings margin="8" report="true" reportActions="false">
+    <container bgColor="0xC0C0C0">
+     <gradient source="0xFFCCFF" dest="0xFFFFCC" angle="128" />
+     <counters time="true" actions="true" score="true" />
+    </container>
+    <window bgColor="0xC0C0C0" border="true">
+     <gradient source="0xFFFFCC" dest="0xFFCCCC" angle="146" />
+     <size width="600" height="480" />
+    </window>
+    <skin file="@mini.xml" />
+   </settings>
+   <checkButton>Evalua tu propuesta</checkButton>
+   <prevScreen>
+    <style>
+     <color inactive="0xFFCCCC" />
+     <gradient source="0xCCFFCC" dest="0xFFFFCC" angle="122" />
+    </style>
+    <p>Jair emplea el sistema de mensajes de la plataforma para comunicarse con diversos agentes educativos, sin embargo cuando pulsa la tecla “enter” para pasar a otra línea, lo escrito se envía al destinatario. Quiere evitar esto y que solo se envíe el mensaje cuando pulse el botón de envío.</p>
+    <p>¿Cómo le puedes orientar para solucionar este aspecto?.</p>
+    <p>-- Considerando las pautas de cordialidad, ordena el texto del mensaje. --</p>
+   </prevScreen>
+   <document>
+    <style name="targetError" base="target" foreground="0xFF0000" />
+    <style name="target" base="default" foreground="0x0000FF" target="true" />
+    <style name="default" family="Arial" background="0xFFFFFF" tabWidth="12" size="14" bold="false" italic="false" />
+    <section>
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">Jair, ¿Cómo estás?. Esperando que muy bien.</target>
+      <target name="target" foreground="0x0000FF" target="true" size="16"> </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF" />
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">Te comparto mi experiencia, espero te oriente.</target>
+      <target name="target" foreground="0x0000FF" target="true" size="16"> </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF" />
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">1) Primero debes haber ingresado a “Mi Aula”. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">2) Luego, identifica en la página, en la parte superior izquierda, al “Usuario”. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">3) Entonces pulsar sobre el menú desplegable. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">4) Ello te permite localizar y pulsar la opción de “Preferencias”. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">5) Enseguida, en la página que se muestre, ubica el “recuadro” de “Cuenta de usuario”. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">6) Acto seguido, pulsa en la opción de “Preferencias de mensaje”. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">7) Se desplegará al lado izquierdo de la pantalla las opciones de “Configuración”. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">8) Ahora tienes que encontrar  la etiqueta de “General”. </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">9) Ello te permite la opción de deshabilitar “Usar ENTER para enviar”.  </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF" />
+     <p family="Arial" background="0xFFFFFF" />
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">Jair, espero te sirva. A mí, el deshabilitar “Usar ENTER para enviar” me ha sido de utilidad, ahora puedo redactar mis mensajes completos.  </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF" />
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">Te recomiendo no obstante navegar y emplear las diversas herramientas de la plataforma. Creo que hay otro procedimiento que te permite activar o desactivar esa opción de envío de mensajes. Sin duda te será de ayuda.</target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">   </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF" />
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">Estamos en contacto. Saludos cordiales.  </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">Ricardo Pérez Anaya</target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">.  </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF">
+      <target name="target" foreground="0x0000FF" target="true" size="16">Estudiante RT9305, </target>
+      <target name="target" foreground="0x0000FF" target="true" size="16">Grupo M0C4G0-332.  </target>
+     </p>
+     <p family="Arial" background="0xFFFFFF" />
+    </section>
+   </document>
+   <evaluator class="@BasicEvaluator" checkDoubleSpaces="true" />
+  </activity>
+ </activities>
+ <mediaBag />
+</JClicProject>
+

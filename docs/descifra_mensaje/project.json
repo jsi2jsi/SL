@@ -1,0 +1,35 @@
+{
+  "title": "Descifra_mensaje",
+  "date": "14/12/22",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "3Mensj_Cordial.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 4,
+  "mediaFiles": 5,
+  "totalSize": 104506,
+  "files": [
+    "2Mensj_Cordial.jclic",
+    "2Mensj_Cordial.jclic.js",
+    "3Mensj_Cordial.jclic",
+    "3Mensj_Cordial.jclic.js",
+    "Mensj_Cordial.jclic",
+    "Mensj_Cordial.jclic.js",
+    "descifra_mensaje.jclic",
+    "descifra_mensaje.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
