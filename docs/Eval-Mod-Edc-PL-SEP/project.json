@@ -1,0 +1,33 @@
+{
+  "title": "Eval-PL",
+  "author": "Jesús Soberanes Islas (Asesor virtual)",
+  "date": "27/01/23",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "eval-pl.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 6,
+  "totalSize": 301148,
+  "files": [
+    "eval-pl.jclic",
+    "eval-pl.jclic.js",
+    "evaluacion_pl-sep.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
