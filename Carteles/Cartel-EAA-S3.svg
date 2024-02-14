@@ -4,16 +4,86 @@
 <svg
    version="1.1"
    id="svg2"
-   width="600.000"
-   height="772.1966"
+   width="815.47253"
+   height="1054.9451"
    viewBox="0 0 815.47253 1054.9451"
-   sodipodi:docname="Cartel-EAA-S3.svg"
+   sodipodi:docname="2aCartel-EAA-S3.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     type="text/css"
+     id="style182"><![CDATA[
+.text {
+  font-size:28px;
+  font-family:helvetica;
+  font-weight:bold;
+  color:#71d90b;
+  text-transform:uppercase;
+}
+.parpadea {
+  
+  animation-name: parpadeo;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-name:parpadeo;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+
+
+.parpadea2 {
+  
+  animation-name: parpadeo;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-name:parpadeo;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+
+
+.parpadea3 {
+  
+  animation-name: parpadeo;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-name:parpadeo;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+
+
+@-moz-keyframes parpadeo{  
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}
+
+@-webkit-keyframes parpadeo {  
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+   100% { opacity: 1.0; }
+}
+
+@keyframes parpadeo {  
+  0% { opacity: 1.0; }
+   50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}
+        ]]></style>
   <defs
      id="defs6">
     <rect
@@ -46,7 +116,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.73558332"
-     inkscape:cx="271.89306"
+     inkscape:cx="239.94563"
      inkscape:cy="513.87788"
      inkscape:window-width="1920"
      inkscape:window-height="974"
@@ -69,7 +139,7 @@
        xlink:href="https://jsi2jsi.github.io/SfL/Contenido/M0-EAA-S3.svg"
        target="https://jsi2jsi.github.io/SfL/Contenido/M0-EAA-S3.svg"
        xlink:title="¿Cómo accedo?. ¡Ah, ok!. Clic aquí.">
-      <path
+      <path class="parpadea text"
          style="fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95;opacity:0"
          d="m 70.692195,698.76516 h 17.673049 l -1.359465,8.15679 -2.718931,9.51626 293.644502,62.5354 43.50289,-207.99819 -323.552739,-67.97326 -1.359465,20.39198 16.313584,5.43786 12.23519,23.11091 24.47037,23.11091 -4.07839,9.51626 -35.3461,6.79732 -6.79733,2.71893 h -6.797324 l 2.71893,-29.90823 v -6.79733 z"
          id="path298" />
@@ -79,8 +149,8 @@
        xlink:href="https://drive.google.com/file/d/1v2SQNWvJ2G1velNE4eBDdgXSrCh6bt0p/view?usp=sharing"
        target="https://drive.google.com/file/d/1v2SQNWvJ2G1velNE4eBDdgXSrCh6bt0p/view?usp=sharing"
        xlink:title="¿De qué manera?. ¡Ah. Dando clic aquí!">
-      <path
-         style="opacity:0;fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95"
+      <path class="parpadea text2" 
+         style="opacity:0;fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95" class="send-icon"
          d="m 554.66184,538.34826 9.51626,13.59465 -6.79733,14.95412 v 2.71893 l -2.71893,9.51626 10.87572,12.23518 163.13584,-5.43786 9.51625,-1.35946 10.87573,-4.0784 12.23518,-2.71893 12.23519,4.0784 12.23519,-14.95412 -12.23519,-23.11091 4.0784,-13.59466 z"
          id="path854" />
     </a>
@@ -89,7 +159,8 @@
        xlink:href="https://www.youtube.com/watch?v=uPRGQJGeyeE"
        target="https://www.youtube.com/watch?v=uPRGQJGeyeE"
        xlink:title="¿Cómo?. ¡Ah!, comprendo. Clic aquí.">
-      <path
+
+      <path class="parpadea text3"
          style="opacity:0;fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95"
          d="m 485.32911,1038.6315 292.28504,-8.1568 -1.35947,-175.37103 -101.95989,1.35947 6.79732,10.87572 -111.47615,6.79732 12.23519,-13.59465 -100.60044,1.35947 z"
          id="path856" />
