@@ -4,7 +4,7 @@
 <svg
    version="1.1"
    id="svg2"
-   width="600.000"
+   width="600.0000"
    height="772.1966"
    viewBox="0 0 815.47253 1054.9451"
    sodipodi:docname="Cartel-EAA-S4.svg"
@@ -14,6 +14,62 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+ <style
+     type="text/css"
+     id="style182"><![CDATA[
+ .send-icon {
+            
+opacity:0;
+fill:#05005e;
+fill-opacity:0.972343;
+stroke-width:0.768;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-opacity:0.95
+        }
+        .send-icon:hover {
+            fill:#d9534f;
+opacity:0.5;
+        }
+
+
+.parpadea {
+  fill:#d9534f
+  animation-name: parpadeo;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-name:parpadeo;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+
+
+@-moz-keyframes parpadeo{  
+  0% { opacity: 0.50; }
+  50% { opacity: 0.0; }
+  100% { opacity: 0.50; }
+}
+
+@-webkit-keyframes parpadeo {  
+  0% { opacity: 0.50; }
+  50% { opacity: 0.0; }
+   100% { opacity: 0.50; }
+}
+
+@keyframes parpadeo {  
+  0% { opacity: 0.50; }
+   50% { opacity: 0.0; }
+  100% { opacity: 0.50; }
+}
+
+
+
+        ]]></style>
+
+
   <defs
      id="defs6">
     <rect
@@ -69,7 +125,7 @@
        xlink:href="https://drive.google.com/file/d/1v2SQNWvJ2G1velNE4eBDdgXSrCh6bt0p/view?usp=sharing"
        target="https://drive.google.com/file/d/1v2SQNWvJ2G1velNE4eBDdgXSrCh6bt0p/view?usp=sharing"
        xlink:title="¿Pero de qué manera?. ¡Oh, vaya!. Clic aquí.">
-      <path
+      <path class="parpadea" 
          style="fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95;opacity:0"
          d="m 111.96396,675.33817 206.15586,-10.66324 -1.77721,19.54926 9.77464,20.43787 -5.33162,7.99742 7.99742,7.99743 -229.259531,7.99743 -7.997426,-16.88346 10.663237,-22.21507 -4.443017,-8.88603 z"
          id="path293" />
@@ -79,8 +135,8 @@
        xlink:href="https://jsi2jsi.github.io/SfL/Contenido/EAA-S4.svg"
        target="https://jsi2jsi.github.io/SfL/Contenido/EAA-S4.svg"
        xlink:title="¿Y ahora cómo?.  Oh, vaya. Clic aquí.">
-      <path
-         style="opacity:0;fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95"
+      <path class="send-icon" 
+         
          d="m 423.86356,568.70582 254.14041,-34.65551 39.98713,12.44044 28.43529,199.93564 -257.69482,35.54412 7.10882,-4.44302 -43.54154,-15.10625 z"
          id="path849" />
     </a>
@@ -89,8 +145,8 @@
        xlink:href="https://www.youtube.com/watch?v=1_PEK4ce1Yg"
        target="https://www.youtube.com/watch?v=1_PEK4ce1Yg"
        xlink:title="¿Y cómo?. Ah, ok. Clic aquí.">
-      <path
-         style="opacity:0;fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95"
+      <path class="send-icon" 
+         
          d="m 98.634916,820.18043 169.723144,9.77463 23.99228,16.88346 -6.22022,113.74116 L 66.645214,949.02784 79.974256,830.84366 Z"
          id="path851" />
     </a>
