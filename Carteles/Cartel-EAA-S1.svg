@@ -14,6 +14,60 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+<style
+     type="text/css"
+     id="style182"><![CDATA[
+ .send-icon {
+            
+opacity:0;
+fill:#05005e;
+fill-opacity:0.972343;
+stroke-width:0.768;
+stroke-linecap:round;
+stroke-linejoin:round;
+stroke-opacity:0.95
+        }
+        .send-icon:hover {
+            fill:#d9534f;
+opacity:0.5;
+        }
+
+
+.parpadea {
+  fill:#d9534f
+  animation-name: parpadeo;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-name:parpadeo;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+
+
+@-moz-keyframes parpadeo{  
+  0% { opacity: 0.50; }
+  50% { opacity: 0.0; }
+  100% { opacity: 0.50; }
+}
+
+@-webkit-keyframes parpadeo {  
+  0% { opacity: 0.50; }
+  50% { opacity: 0.0; }
+   100% { opacity: 0.50; }
+}
+
+@keyframes parpadeo {  
+  0% { opacity: 0.50; }
+   50% { opacity: 0.0; }
+  100% { opacity: 0.50; }
+}
+
+
+
+        ]]></style>
   <defs
      id="defs6" />
   <sodipodi:namedview
@@ -50,8 +104,8 @@
        xlink:href="https://www.youtube.com/watch?v=78D3pkpTxsg"
        target="https://www.youtube.com/watch?v=78D3pkpTxsg"
        xlink:title="¿Pero cómo?. ¡Claro, dando clic aquí!">
-      <rect
-         style="fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95;opacity:0"
+      <rect class="send-icon"
+         
          id="rect291"
          width="225.94502"
          height="133.16151"
@@ -63,8 +117,8 @@
        xlink:href="https://jsi2jsi.github.io/SfL/Contenido/M0-EAA-S1.svg"
        target="https://jsi2jsi.github.io/SfL/Contenido/M0-EAA-S1.svg"
        xlink:title="¿De que manera?. ¡Ah, Ok!. Clic aquí">
-      <rect
-         style="opacity:0;fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95"
+      <rect class="send-icon"
+         
          id="rect847"
          width="230.24055"
          height="166.66667"
@@ -76,7 +130,7 @@
        target="https://drive.google.com/file/d/1v2SQNWvJ2G1velNE4eBDdgXSrCh6bt0p/view"
        xlink:href="https://drive.google.com/file/d/1v2SQNWvJ2G1velNE4eBDdgXSrCh6bt0p/view"
        xlink:title="¿Pero cómo?. Ah, entiendo. ¡Dando clic aquí!">
-      <rect
+      <rect  class="parpadea"
          style="opacity:0;fill:#05005e;fill-opacity:0.972343;stroke-width:0.768;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95"
          id="rect849"
          width="129.72508"
@@ -84,12 +138,12 @@
          x="213.91753"
          y="284.36426" />
     </a>
-    <g
+    <g 
        aria-label="https://www.youtube.com/watch?v=78D3pkpTxsg"
        transform="scale(0.72096235,1.387035)"
        id="text2425"
-       style="font-size:14.3185px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';opacity:0.989736;fill:#05005e;fill-opacity:0.972343;stroke-width:0.343643;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95">
-      <path
+style="font-size:14.3185px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';opacity:0.989736;fill:#05005e;fill-opacity:0.972343;stroke-width:0.343643;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.95">
+             <path
          d="m 35.947048,384.89187 q 0,0.23072 -0.314616,0.21673 -1.754855,-0.0629 -2.279214,-0.028 -0.258684,0.021 -0.307624,0.007 -0.132838,-0.035 -0.132838,-0.22373 0,-0.13283 0.398513,-0.25169 0.265675,-0.0839 0.33559,-0.25868 0.03496,-0.0979 0.03496,-0.44746 v -1.88769 q 0,-1.636 -1.384308,-1.636 -0.615248,0 -1.15359,0.29364 -0.510376,0.27966 -0.510376,0.55233 v 2.66374 q 0,0.67118 0.859949,0.76207 0.328598,0.028 0.328598,0.20974 0,0.13983 -0.04894,0.18178 -0.04894,0.0419 -0.279658,0.035 -1.111641,-0.042 -2.265232,0.0559 -0.251692,0.021 -0.314615,0.007 -0.139829,-0.028 -0.139829,-0.21673 0,-0.15381 0.398513,-0.25869 0.370547,-0.10487 0.370547,-0.76207 v -6.32726 q 0,-0.55233 -0.111863,-0.80402 -0.160804,-0.33559 -0.643214,-0.49639 -0.188769,-0.0629 -0.188769,-0.23072 0,-0.11886 0.286649,-0.2447 0.38453,-0.17479 0.978804,-0.51038 0.38453,-0.21673 0.524359,-0.21673 0.258684,0 0.258684,0.35656 0,-0.007 -0.02097,0.69915 -0.02097,0.69914 -0.02097,1.36333 v 2.39108 q 0,0.38453 0.111863,0.38453 -0.06292,0 0.699146,-0.39851 0.76906,-0.40551 1.454222,-0.40551 1.859727,0 1.87371,2.06248 l 0.01398,2.36311 q 0.007,0.70614 0.873932,0.79004 0.314616,0.028 0.314616,0.20974 z"
          id="path362" />
       <path
