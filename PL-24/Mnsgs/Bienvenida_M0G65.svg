@@ -2,11 +2,11 @@
 <svg
    class="w-screen h-screen leading-none markmap mm-umazgr-1"
    version="1.1"
-   id="svg9635"
-   sodipodi:docname="2Primeras_anotaciones.svg"
-   width="1066"
-   height="2050"
-   viewBox="-30 0 710.66666 1366.6666"
+   id="svg1692"
+   sodipodi:docname="Bienv2_G65.svg"
+   width="1178"
+   height="2500"
+   viewBox="-8 -900 589 1250"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -14,9 +14,9 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <defs
-     id="defs9639" />
+     id="defs1696" />
   <sodipodi:namedview
-     id="namedview9637"
+     id="namedview1694"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
@@ -25,913 +25,913 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.3"
-     inkscape:cx="2186.6667"
-     inkscape:cy="2446.6667"
+     inkscape:zoom="0.5"
+     inkscape:cx="362"
+     inkscape:cy="2230"
      inkscape:window-width="1920"
      inkscape:window-height="974"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg9635" />
+     inkscape:current-layer="svg1692" />
   <style
-     id="style8883">.markmap{--markmap-max-width: none;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign-testing-max{max-width:var(--markmap-max-width)}.markmap-foreign-testing-max img{max-width:var(--markmap-max-width);max-height:none}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style>
+     id="style940">.markmap{--markmap-max-width: none;--markmap-a-color: #0097e6;--markmap-a-hover-color: #00a8ff;--markmap-code-bg: #f0f0f0;--markmap-code-color: #555;--markmap-highlight-bg: #ffeaa7;--markmap-table-border: 1px solid currentColor;--markmap-font: 300 16px/20px sans-serif;--markmap-circle-open-bg: #fff;--markmap-text-color: #333;font:var(--markmap-font);color:var(--markmap-text-color)}.markmap-link{fill:none}.markmap-node&gt;circle{cursor:pointer}.markmap-foreign{display:inline-block}.markmap-foreign p{margin:0}.markmap-foreign a{color:var(--markmap-a-color)}.markmap-foreign a:hover{color:var(--markmap-a-hover-color)}.markmap-foreign code{padding:.25em;font-size:calc(1em - 2px);color:var(--markmap-code-color);background-color:var(--markmap-code-bg);border-radius:2px}.markmap-foreign pre{margin:0}.markmap-foreign pre&gt;code{display:block}.markmap-foreign del{text-decoration:line-through}.markmap-foreign em{font-style:italic}.markmap-foreign strong{font-weight:700}.markmap-foreign mark{background:var(--markmap-highlight-bg)}.markmap-foreign table,.markmap-foreign th,.markmap-foreign td{border-collapse:collapse;border:var(--markmap-table-border)}.markmap-foreign img{display:inline-block}.markmap-foreign svg{fill:currentColor}.markmap-foreign-testing-max{max-width:var(--markmap-max-width)}.markmap-foreign-testing-max img{max-width:var(--markmap-max-width);max-height:none}.markmap-dark .markmap{--markmap-code-bg: #1a1b26;--markmap-code-color: #ddd;--markmap-circle-open-bg: #444;--markmap-text-color: #eee}</style>
   <rect
-     style="fill:#f3f3dd;fill-opacity:1;stroke-width:1.89971;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
-     id="rect9693"
-     width="720"
-     height="1381.6666"
-     x="-30"
-     y="-1.6666666" />
+     style="fill:#f4dfef;fill-opacity:1;stroke-width:2.74082;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+     id="rect2183"
+     width="594.66669"
+     height="1248"
+     x="-9.333333"
+     y="-898.66669" />
   <g
-     transform="matrix(0.49923065,0,0,0.49923065,-13.699953,680.80371)"
-     id="g9633">
+     transform="matrix(0.40550129,0,0,0.40550129,7.7816293,-273.48297)"
+     id="g1690">
     <path
        class="markmap-link"
        data-depth="2"
        data-path="1.2"
-       d="m 122,30 c 40,0 40,-1273.875 80,-1273.875"
+       d="m 122,30 c 40,0 40,-1463.875 80,-1463.875"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8885" />
+       id="path942" />
     <path
        class="markmap-link"
        data-depth="2"
        data-path="1.12"
-       d="m 122,30 c 40,0 40,-846.375 80,-846.375"
+       d="m 122,30 c 40,0 40,-987.625 80,-987.625"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8887" />
+       id="path944" />
     <path
        class="markmap-link"
        data-depth="2"
        data-path="1.42"
-       d="m 122,30 c 40,0 40,-400.125 80,-400.125"
+       d="m 122,30 c 40,0 40,-210.125 80,-210.125"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8889" />
+       id="path946" />
     <path
        class="markmap-link"
        data-depth="2"
        data-path="1.55"
-       d="m 122,30 c 40,0 40,424.625 80,424.625"
+       d="m 122,30 c 40,0 40,614.625 80,614.625"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8891" />
+       id="path948" />
     <path
        class="markmap-link"
        data-depth="2"
        data-path="1.110"
-       d="m 122,30 c 40,0 40,1233.875 80,1233.875"
+       d="m 122,30 c 40,0 40,1423.875 80,1423.875"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8893" />
+       id="path950" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.2.3"
-       d="m 299,-1243.875 c 40,0 40,-66.25 80,-66.25"
+       d="m 299,-1433.875 c 40,0 40,-66.25 80,-66.25"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8895" />
+       id="path952" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.2.5"
-       d="m 299,-1243.875 c 40,0 40,-6.25 80,-6.25"
+       d="m 299,-1433.875 c 40,0 40,-6.25 80,-6.25"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8897" />
+       id="path954" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.2.6"
-       d="m 299,-1243.875 c 40,0 40,66.25 80,66.25"
+       d="m 299,-1433.875 c 40,0 40,66.25 80,66.25"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8899" />
+       id="path956" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.12.13"
-       d="m 371,-816.375 c 40,0 40,-198.75 80,-198.75"
+       d="m 371,-957.625 c 40,0 40,-247.5 80,-247.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8901" />
+       id="path958" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.12.18"
-       d="m 371,-816.375 c 40,0 40,-78.75 80,-78.75"
+       d="m 371,-957.625 c 40,0 40,-127.5 80,-127.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8903" />
+       id="path960" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.12.26"
-       d="m 371,-816.375 c 40,0 40,28.75 80,28.75"
+       d="m 371,-957.625 c 40,0 40,-20 80,-20"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8905" />
+       id="path962" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.12.30"
-       d="m 371,-816.375 c 40,0 40,218.75 80,218.75"
+       d="m 371,-957.625 c 40,0 40,267.5 80,267.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8907" />
+       id="path964" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.42.43"
-       d="m 304,-370.125 c 40,0 40,-105 80,-105"
+       d="m 304,-180.125 c 40,0 40,-105 80,-105"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8909" />
+       id="path966" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.42.44"
-       d="m 304,-370.125 c 40,0 40,-60 80,-60"
+       d="m 304,-180.125 c 40,0 40,-60 80,-60"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8911" />
+       id="path968" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.42.47"
-       d="m 304,-370.125 c 40,0 40,12.5 80,12.5"
+       d="m 304,-180.125 c 40,0 40,12.5 80,12.5"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8913" />
+       id="path970" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.42.50"
-       d="m 304,-370.125 c 40,0 40,125 80,125"
+       d="m 304,-180.125 c 40,0 40,125 80,125"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8915" />
+       id="path972" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.55.56"
-       d="m 306,454.625 c 40,0 40,-496 80,-496"
+       d="m 306,644.625 c 40,0 40,-496 80,-496"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8917" />
+       id="path974" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.55.73"
-       d="m 306,454.625 c 40,0 40,-132.875 80,-132.875"
+       d="m 306,644.625 c 40,0 40,-132.875 80,-132.875"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8919" />
+       id="path976" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.55.89"
-       d="m 306,454.625 c 40,0 40,456 80,456"
+       d="m 306,644.625 c 40,0 40,456 80,456"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8921" />
+       id="path978" />
     <path
        class="markmap-link"
        data-depth="3"
        data-path="1.110.111"
-       d="m 310,1263.875 c 40,0 40,24.5 80,24.5"
+       d="m 310,1453.875 c 40,0 40,24.5 80,24.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8923" />
+       id="path980" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.2.3.4"
-       d="m 603,-1310.125 c 40,0 40,10 80,10"
+       d="m 603,-1500.125 c 40,0 40,10 80,10"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8925" />
+       id="path982" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.2.6.7"
-       d="m 514,-1177.625 c 40,0 40,-42.5 80,-42.5"
+       d="m 514,-1367.625 c 40,0 40,-42.5 80,-42.5"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8927" />
+       id="path984" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.2.6.8"
-       d="m 514,-1177.625 c 40,0 40,42.5 80,42.5"
+       d="m 514,-1367.625 c 40,0 40,42.5 80,42.5"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8929" />
+       id="path986" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.13.14"
-       d="m 542,-1015.125 c 40,0 40,-10 80,-10"
+       d="m 542,-1205.125 c 40,0 40,-10 80,-10"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8931" />
+       id="path988" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.18.19"
-       d="m 585,-895.125 c 40,0 40,-42.5 80,-42.5"
+       d="m 585,-1085.125 c 40,0 40,-42.5 80,-42.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8933" />
+       id="path990" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.18.22"
-       d="m 585,-895.125 c 40,0 40,0 80,0"
+       d="m 585,-1085.125 c 40,0 40,0 80,0"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8935" />
+       id="path992" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.18.23"
-       d="m 585,-895.125 c 40,0 40,42.5 80,42.5"
+       d="m 585,-1085.125 c 40,0 40,42.5 80,42.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8937" />
+       id="path994" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.26.27"
-       d="m 606,-787.625 c 40,0 40,-35 80,-35"
+       d="m 606,-977.625 c 40,0 40,-35 80,-35"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8939" />
+       id="path996" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.26.28"
-       d="m 606,-787.625 c 40,0 40,-10 80,-10"
+       d="m 606,-977.625 c 40,0 40,-10 80,-10"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8941" />
+       id="path998" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.26.29"
-       d="m 606,-787.625 c 40,0 40,15 80,15"
+       d="m 606,-977.625 c 40,0 40,15 80,15"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8943" />
+       id="path1000" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.30.31"
-       d="m 673,-597.625 c 40,0 40,-105 80,-105"
+       d="m 673,-690.125 c 40,0 40,-202.5 80,-202.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8945" />
+       id="path1002" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.30.35"
-       d="m 673,-597.625 c 40,0 40,17.5 80,17.5"
+       d="m 673,-690.125 c 40,0 40,-80 80,-80"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8947" />
+       id="path1004" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.12.30.40"
-       d="m 673,-597.625 c 40,0 40,105 80,105"
+       d="m 673,-690.125 c 40,0 40,202.5 80,202.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8949" />
+       id="path1006" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.42.44.45"
-       d="m 657,-430.125 c 40,0 40,-12.5 80,-12.5"
+       d="m 657,-240.125 c 40,0 40,-12.5 80,-12.5"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8951" />
+       id="path1008" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.42.44.46"
-       d="m 657,-430.125 c 40,0 40,12.5 80,12.5"
+       d="m 657,-240.125 c 40,0 40,12.5 80,12.5"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8953" />
+       id="path1010" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.42.47.48"
-       d="m 613,-357.625 c 40,0 40,30 80,30"
+       d="m 613,-167.625 c 40,0 40,30 80,30"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8955" />
+       id="path1012" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.42.50.51"
-       d="m 505,-245.125 c 40,0 40,-12.5 80,-12.5"
+       d="m 505,-55.125 c 40,0 40,-12.5 80,-12.5"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8957" />
+       id="path1014" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.42.50.53"
-       d="m 505,-245.125 c 40,0 40,32.5 80,32.5"
+       d="m 505,-55.125 c 40,0 40,32.5 80,32.5"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8959" />
+       id="path1016" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.56.57"
-       d="m 508,-41.375 c 40,0 40,-103.75 80,-103.75"
+       d="m 508,148.625 c 40,0 40,-103.75 80,-103.75"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8961" />
+       id="path1018" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.56.63"
-       d="m 508,-41.375 c 40,0 40,-1.25 80,-1.25"
+       d="m 508,148.625 c 40,0 40,-1.25 80,-1.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8963" />
+       id="path1020" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.56.67"
-       d="m 508,-41.375 c 40,0 40,103.75 80,103.75"
+       d="m 508,148.625 c 40,0 40,103.75 80,103.75"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8965" />
+       id="path1022" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.73.74"
-       d="m 517,321.75 c 40,0 40,-123.875 80,-123.875"
+       d="m 517,511.75 c 40,0 40,-123.875 80,-123.875"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8967" />
+       id="path1024" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.73.80"
-       d="m 517,321.75 c 40,0 40,103.875 80,103.875"
+       d="m 517,511.75 c 40,0 40,103.875 80,103.875"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8969" />
+       id="path1026" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.89.90"
-       d="m 509,910.625 c 40,0 40,-221.25 80,-221.25"
+       d="m 509,1100.625 c 40,0 40,-221.25 80,-221.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8971" />
+       id="path1028" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.89.96"
-       d="m 509,910.625 c 40,0 40,-65 80,-65"
+       d="m 509,1100.625 c 40,0 40,-65 80,-65"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8973" />
+       id="path1030" />
     <path
        class="markmap-link"
        data-depth="4"
        data-path="1.55.89.104"
-       d="m 509,910.625 c 40,0 40,221.25 80,221.25"
+       d="m 509,1100.625 c 40,0 40,221.25 80,221.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path8975" />
+       id="path1032" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.2.6.8.9"
-       d="m 764,-1135.125 c 40,0 40,-55 80,-55"
+       d="m 764,-1325.125 c 40,0 40,-55 80,-55"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8977" />
+       id="path1034" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.2.6.8.10"
-       d="m 764,-1135.125 c 40,0 40,10 80,10"
+       d="m 764,-1325.125 c 40,0 40,10 80,10"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8979" />
+       id="path1036" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.2.6.8.11"
-       d="m 764,-1135.125 c 40,0 40,35 80,35"
+       d="m 764,-1325.125 c 40,0 40,35 80,35"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path8981" />
+       id="path1038" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.13.14.15"
-       d="m 710,-1025.125 c 40,0 40,-25 80,-25"
+       d="m 710,-1215.125 c 40,0 40,-25 80,-25"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8983" />
+       id="path1040" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.13.14.16"
-       d="m 710,-1025.125 c 40,0 40,0 80,0"
+       d="m 710,-1215.125 c 40,0 40,0 80,0"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8985" />
+       id="path1042" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.13.14.17"
-       d="m 710,-1025.125 c 40,0 40,45 80,45"
+       d="m 710,-1215.125 c 40,0 40,45 80,45"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8987" />
+       id="path1044" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.18.19.20"
-       d="m 757,-937.625 c 40,0 40,-12.5 80,-12.5"
+       d="m 757,-1127.625 c 40,0 40,-12.5 80,-12.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8989" />
+       id="path1046" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.18.19.21"
-       d="m 757,-937.625 c 40,0 40,12.5 80,12.5"
+       d="m 757,-1127.625 c 40,0 40,12.5 80,12.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8991" />
+       id="path1048" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.18.23.24"
-       d="m 899,-852.625 c 40,0 40,-12.5 80,-12.5"
+       d="m 899,-1042.625 c 40,0 40,-12.5 80,-12.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8993" />
+       id="path1050" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.18.23.25"
-       d="m 899,-852.625 c 40,0 40,12.5 80,12.5"
+       d="m 899,-1042.625 c 40,0 40,12.5 80,12.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8995" />
+       id="path1052" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.31.32"
-       d="m 857,-702.625 c 40,0 40,-65 80,-65"
+       d="m 857,-892.625 c 40,0 40,-65 80,-65"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8997" />
+       id="path1054" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.31.33"
-       d="m 857,-702.625 c 40,0 40,-20 80,-20"
+       d="m 857,-892.625 c 40,0 40,-20 80,-20"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path8999" />
+       id="path1056" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.31.34"
-       d="m 857,-702.625 c 40,0 40,45 80,45"
+       d="m 857,-892.625 c 40,0 40,45 80,45"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path9001" />
+       id="path1058" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.35.36"
-       d="m 904,-580.125 c 40,0 40,-47.5 80,-47.5"
+       d="m 904,-770.125 c 40,0 40,-47.5 80,-47.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path9003" />
+       id="path1060" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.35.37"
-       d="m 904,-580.125 c 40,0 40,-22.5 80,-22.5"
+       d="m 904,-770.125 c 40,0 40,-22.5 80,-22.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path9005" />
+       id="path1062" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.35.38"
-       d="m 904,-580.125 c 40,0 40,2.5 80,2.5"
+       d="m 904,-770.125 c 40,0 40,2.5 80,2.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path9007" />
+       id="path1064" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.35.39"
-       d="m 904,-580.125 c 40,0 40,47.5 80,47.5"
+       d="m 904,-770.125 c 40,0 40,47.5 80,47.5"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path9009" />
+       id="path1066" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.12.30.40.41"
-       d="m 890,-492.625 c 40,0 40,-10 80,-10"
+       d="m 890,-487.625 c 40,0 40,185 80,185"
        stroke="#9467bd"
        stroke-width="1.5"
-       id="path9011" />
+       id="path1068" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.42.47.48.49"
-       d="m 887,-327.625 c 40,0 40,-20 80,-20"
+       d="m 887,-137.625 c 40,0 40,-20 80,-20"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path9013" />
+       id="path1070" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.42.50.51.52"
-       d="m 739,-257.625 c 40,0 40,-10 80,-10"
+       d="m 739,-67.625 c 40,0 40,-10 80,-10"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path9015" />
+       id="path1072" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.42.50.53.54"
-       d="m 802,-212.625 c 40,0 40,0 80,0"
+       d="m 802,-22.625 c 40,0 40,0 80,0"
        stroke="#ff7f0e"
        stroke-width="1.5"
-       id="path9017" />
+       id="path1074" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.57.58"
-       d="m 842,-145.125 c 40,0 40,0 80,0"
+       d="m 842,44.875 c 40,0 40,0 80,0"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9019" />
+       id="path1076" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.63.64"
-       d="m 895,-42.625 c 40,0 40,-35 80,-35"
+       d="m 895,147.375 c 40,0 40,-35 80,-35"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9021" />
+       id="path1078" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.63.65"
-       d="m 895,-42.625 c 40,0 40,-10 80,-10"
+       d="m 895,147.375 c 40,0 40,-10 80,-10"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9023" />
+       id="path1080" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.63.66"
-       d="m 895,-42.625 c 40,0 40,15 80,15"
+       d="m 895,147.375 c 40,0 40,15 80,15"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9025" />
+       id="path1082" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.67.68"
-       d="m 827,62.375 c 40,0 40,-60 80,-60"
+       d="m 827,252.375 c 40,0 40,-60 80,-60"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9027" />
+       id="path1084" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.67.69"
-       d="m 827,62.375 c 40,0 40,-35 80,-35"
+       d="m 827,252.375 c 40,0 40,-35 80,-35"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9029" />
+       id="path1086" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.67.70"
-       d="m 827,62.375 c 40,0 40,-10 80,-10"
+       d="m 827,252.375 c 40,0 40,-10 80,-10"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9031" />
+       id="path1088" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.67.71"
-       d="m 827,62.375 c 40,0 40,15 80,15"
+       d="m 827,252.375 c 40,0 40,15 80,15"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9033" />
+       id="path1090" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.56.67.72"
-       d="m 827,62.375 c 40,0 40,40 80,40"
+       d="m 827,252.375 c 40,0 40,40 80,40"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9035" />
+       id="path1092" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.73.74.75"
-       d="m 676,197.875 c 40,0 40,-45.5 80,-45.5"
+       d="m 676,387.875 c 40,0 40,-45.5 80,-45.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9037" />
+       id="path1094" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.73.74.76"
-       d="m 676,197.875 c 40,0 40,65.5 80,65.5"
+       d="m 676,387.875 c 40,0 40,65.5 80,65.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9039" />
+       id="path1096" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.73.80.81"
-       d="m 723,425.625 c 40,0 40,-71.25 80,-71.25"
+       d="m 723,615.625 c 40,0 40,-71.25 80,-71.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9041" />
+       id="path1098" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.73.80.82"
-       d="m 723,425.625 c 40,0 40,71.25 80,71.25"
+       d="m 723,615.625 c 40,0 40,71.25 80,71.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9043" />
+       id="path1100" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.90.91"
-       d="m 743,689.375 c 40,0 40,-50 80,-50"
+       d="m 743,879.375 c 40,0 40,-50 80,-50"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9045" />
+       id="path1102" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.90.92"
-       d="m 743,689.375 c 40,0 40,-25 80,-25"
+       d="m 743,879.375 c 40,0 40,-25 80,-25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9047" />
+       id="path1104" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.90.93"
-       d="m 743,689.375 c 40,0 40,0 80,0"
+       d="m 743,879.375 c 40,0 40,0 80,0"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9049" />
+       id="path1106" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.90.94"
-       d="m 743,689.375 c 40,0 40,25 80,25"
+       d="m 743,879.375 c 40,0 40,25 80,25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9051" />
+       id="path1108" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.90.95"
-       d="m 743,689.375 c 40,0 40,50 80,50"
+       d="m 743,879.375 c 40,0 40,50 80,50"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9053" />
+       id="path1110" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.96.97"
-       d="m 726,845.625 c 40,0 40,-76.25 80,-76.25"
+       d="m 726,1035.625 c 40,0 40,-76.25 80,-76.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9055" />
+       id="path1112" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.96.98"
-       d="m 726,845.625 c 40,0 40,-51.25 80,-51.25"
+       d="m 726,1035.625 c 40,0 40,-51.25 80,-51.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9057" />
+       id="path1114" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.96.99"
-       d="m 726,845.625 c 40,0 40,76.25 80,76.25"
+       d="m 726,1035.625 c 40,0 40,76.25 80,76.25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9059" />
+       id="path1116" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.104.105"
-       d="m 751,1131.875 c 40,0 40,-57.5 80,-57.5"
+       d="m 751,1321.875 c 40,0 40,-57.5 80,-57.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9061" />
+       id="path1118" />
     <path
        class="markmap-link"
        data-depth="5"
        data-path="1.55.89.104.109"
-       d="m 751,1131.875 c 40,0 40,37.5 80,37.5"
+       d="m 751,1321.875 c 40,0 40,37.5 80,37.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9063" />
+       id="path1120" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.56.57.58.59"
-       d="m 982,-145.125 c 40,0 40,-37.5 80,-37.5"
+       d="m 982,44.875 c 40,0 40,-37.5 80,-37.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9065" />
+       id="path1122" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.56.57.58.60"
-       d="m 982,-145.125 c 40,0 40,-12.5 80,-12.5"
+       d="m 982,44.875 c 40,0 40,-12.5 80,-12.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9067" />
+       id="path1124" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.56.57.58.61"
-       d="m 982,-145.125 c 40,0 40,12.5 80,12.5"
+       d="m 982,44.875 c 40,0 40,12.5 80,12.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9069" />
+       id="path1126" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.56.57.58.62"
-       d="m 982,-145.125 c 40,0 40,37.5 80,37.5"
+       d="m 982,44.875 c 40,0 40,37.5 80,37.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9071" />
+       id="path1128" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.74.76.77"
-       d="m 895,263.375 c 40,0 40,-21 80,-21"
+       d="m 895,453.375 c 40,0 40,-21 80,-21"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9073" />
+       id="path1130" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.74.76.79"
-       d="m 895,263.375 c 40,0 40,41 80,41"
+       d="m 895,453.375 c 40,0 40,41 80,41"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9075" />
+       id="path1132" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.80.82.83"
-       d="m 951,496.875 c 40,0 40,-92.5 80,-92.5"
+       d="m 951,686.875 c 40,0 40,-92.5 80,-92.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9077" />
+       id="path1134" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.80.82.84"
-       d="m 951,496.875 c 40,0 40,-47.5 80,-47.5"
+       d="m 951,686.875 c 40,0 40,-47.5 80,-47.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9079" />
+       id="path1136" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.80.82.85"
-       d="m 951,496.875 c 40,0 40,-22.5 80,-22.5"
+       d="m 951,686.875 c 40,0 40,-22.5 80,-22.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9081" />
+       id="path1138" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.80.82.86"
-       d="m 951,496.875 c 40,0 40,22.5 80,22.5"
+       d="m 951,686.875 c 40,0 40,22.5 80,22.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9083" />
+       id="path1140" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.80.82.87"
-       d="m 951,496.875 c 40,0 40,67.5 80,67.5"
+       d="m 951,686.875 c 40,0 40,67.5 80,67.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9085" />
+       id="path1142" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.73.80.82.88"
-       d="m 951,496.875 c 40,0 40,112.5 80,112.5"
+       d="m 951,686.875 c 40,0 40,112.5 80,112.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9087" />
+       id="path1144" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.89.96.99.100"
-       d="m 996,921.875 c 40,0 40,-77.5 80,-77.5"
+       d="m 996,1111.875 c 40,0 40,-77.5 80,-77.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9089" />
+       id="path1146" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.89.96.99.101"
-       d="m 996,921.875 c 40,0 40,-12.5 80,-12.5"
+       d="m 996,1111.875 c 40,0 40,-12.5 80,-12.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9091" />
+       id="path1148" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.89.96.99.102"
-       d="m 996,921.875 c 40,0 40,32.5 80,32.5"
+       d="m 996,1111.875 c 40,0 40,32.5 80,32.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9093" />
+       id="path1150" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.89.96.99.103"
-       d="m 996,921.875 c 40,0 40,77.5 80,77.5"
+       d="m 996,1111.875 c 40,0 40,77.5 80,77.5"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9095" />
+       id="path1152" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.89.104.105.106"
-       d="m 853,1074.375 c 40,0 40,-25 80,-25"
+       d="m 853,1264.375 c 40,0 40,-25 80,-25"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9097" />
+       id="path1154" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.89.104.105.107"
-       d="m 853,1074.375 c 40,0 40,0 80,0"
+       d="m 853,1264.375 c 40,0 40,0 80,0"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9099" />
+       id="path1156" />
     <path
        class="markmap-link"
        data-depth="6"
        data-path="1.55.89.104.105.108"
-       d="m 853,1074.375 c 40,0 40,45 80,45"
+       d="m 853,1264.375 c 40,0 40,45 80,45"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9101" />
+       id="path1158" />
     <path
        class="markmap-link"
        data-depth="7"
        data-path="1.55.73.74.76.77.78"
-       d="m 1069,242.375 c 40,0 40,12 80,12"
+       d="m 1069,432.375 c 40,0 40,12 80,12"
        stroke="#2ca02c"
        stroke-width="1.5"
-       id="path9103" />
+       id="path1160" />
     <g
        data-depth="7"
        data-path="1.55.73.74.76.77.78"
-       transform="translate(1149,150.375)"
+       transform="translate(1149,340.375)"
        class="markmap-node"
-       id="g9107">
+       id="g1164">
       <line
          x1="-1"
          x2="211"
@@ -939,7 +939,7 @@
          y2="104"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9105" />
+         id="line1162" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -963,9 +963,9 @@
     <g
        data-depth="6"
        data-path="1.55.89.104.105.108"
-       transform="translate(933,1079.375)"
+       transform="translate(933,1269.375)"
        class="markmap-node"
-       id="g9111">
+       id="g1168">
       <line
          x1="-1"
          x2="180"
@@ -973,7 +973,7 @@
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9109" />
+         id="line1166" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -983,15 +983,16 @@
          style="opacity: 1;">
         <xhtml:div>Fortalece tus actitudes<xhtml:br />
 
+
 hacia el estudio</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.89.104.105.107"
-       transform="translate(933,1054.375)"
+       transform="translate(933,1244.375)"
        class="markmap-node"
-       id="g9115">
+       id="g1172">
       <line
          x1="-1"
          x2="180"
@@ -999,7 +1000,7 @@ hacia el estudio</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9113" />
+         id="line1170" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1013,9 +1014,9 @@ hacia el estudio</xhtml:div>
     <g
        data-depth="6"
        data-path="1.55.89.104.105.106"
-       transform="translate(933,1009.375)"
+       transform="translate(933,1199.375)"
        class="markmap-node"
-       id="g9119">
+       id="g1176">
       <line
          x1="-1"
          x2="229"
@@ -1023,7 +1024,7 @@ hacia el estudio</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9117" />
+         id="line1174" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1033,15 +1034,16 @@ hacia el estudio</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Perfecciona tus aprendizajes,<xhtml:br />
 
+
 ¡Ejercita!</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.89.96.99.103"
-       transform="translate(1076,959.375)"
+       transform="translate(1076,1149.375)"
        class="markmap-node"
-       id="g9123">
+       id="g1180">
       <line
          x1="-1"
          x2="252"
@@ -1049,7 +1051,7 @@ hacia el estudio</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9121" />
+         id="line1178" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1059,15 +1061,16 @@ hacia el estudio</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Ejercicios de apoyo para ampliar<xhtml:br />
 
+
 tus aprendizajes</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.89.96.99.102"
-       transform="translate(1076,914.375)"
+       transform="translate(1076,1104.375)"
        class="markmap-node"
-       id="g9127">
+       id="g1184">
       <line
          x1="-1"
          x2="237"
@@ -1075,7 +1078,7 @@ tus aprendizajes</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9125" />
+         id="line1182" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1085,15 +1088,16 @@ tus aprendizajes</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Recomendaciones específicas<xhtml:br />
 
+
 para tu actuación</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.89.96.99.101"
-       transform="translate(1076,849.375)"
+       transform="translate(1076,1039.375)"
        class="markmap-node"
-       id="g9131">
+       id="g1188">
       <line
          x1="-1"
          x2="201"
@@ -1101,7 +1105,7 @@ para tu actuación</xhtml:div>
          y2="60"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9129" />
+         id="line1186" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1111,17 +1115,19 @@ para tu actuación</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Tus áreas de oportunidad<xhtml:br />
 
+
 (Lo que puedes mejorar.<xhtml:br />
 <xhtml:strong>¡Claro actuando!</xhtml:strong>
+
 )</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.89.96.99.100"
-       transform="translate(1076,804.375)"
+       transform="translate(1076,994.375)"
        class="markmap-node"
-       id="g9135">
+       id="g1192">
       <line
          x1="-1"
          x2="213"
@@ -1129,7 +1135,7 @@ para tu actuación</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9133" />
+         id="line1190" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1139,15 +1145,16 @@ para tu actuación</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Tus fortalezas,<xhtml:br />
 
+
 (lo qué, bien has realizado)</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.73.80.82.88"
-       transform="translate(1031,569.375)"
+       transform="translate(1031,759.375)"
        class="markmap-node"
-       id="g9139">
+       id="g1196">
       <line
          x1="-1"
          x2="204"
@@ -1155,7 +1162,7 @@ para tu actuación</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9137" />
+         id="line1194" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1165,15 +1172,16 @@ para tu actuación</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Se va creando un historial<xhtml:br />
 
+
 de malas prácticas.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.73.80.82.87"
-       transform="translate(1031,524.375)"
+       transform="translate(1031,714.375)"
        class="markmap-node"
-       id="g9143">
+       id="g1200">
       <line
          x1="-1"
          x2="190"
@@ -1181,7 +1189,7 @@ de malas prácticas.</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9141" />
+         id="line1198" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1191,15 +1199,16 @@ de malas prácticas.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>No ejercitas las mejores<xhtml:br />
 
+
 prácticas de estudio.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.73.80.82.86"
-       transform="translate(1031,479.375)"
+       transform="translate(1031,669.375)"
        class="markmap-node"
-       id="g9147">
+       id="g1204">
       <line
          x1="-1"
          x2="188"
@@ -1207,7 +1216,7 @@ prácticas de estudio.</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9145" />
+         id="line1202" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1217,15 +1226,16 @@ prácticas de estudio.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Empleaste tu tiempo de<xhtml:br />
 
+
 manera infructuosa.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.73.80.82.85"
-       transform="translate(1031,454.375)"
+       transform="translate(1031,644.375)"
        class="markmap-node"
-       id="g9151">
+       id="g1208">
       <line
          x1="-1"
          x2="291"
@@ -1233,7 +1243,7 @@ manera infructuosa.</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9149" />
+         id="line1206" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1247,9 +1257,9 @@ manera infructuosa.</xhtml:div>
     <g
        data-depth="6"
        data-path="1.55.73.80.82.84"
-       transform="translate(1031,409.375)"
+       transform="translate(1031,599.375)"
        class="markmap-node"
-       id="g9155">
+       id="g1212">
       <line
          x1="-1"
          x2="295"
@@ -1257,7 +1267,7 @@ manera infructuosa.</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9153" />
+         id="line1210" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1267,15 +1277,16 @@ manera infructuosa.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Anulas tu oportunidad de realizar<xhtml:br />
 
+
 una segunda entrega de esa actividad.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.73.80.82.83"
-       transform="translate(1031,364.375)"
+       transform="translate(1031,554.375)"
        class="markmap-node"
-       id="g9159">
+       id="g1216">
       <line
          x1="-1"
          x2="241"
@@ -1283,7 +1294,7 @@ una segunda entrega de esa actividad.</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9157" />
+         id="line1214" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1293,15 +1304,16 @@ una segunda entrega de esa actividad.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Se eliminan puntos a la posible<xhtml:br />
 
+
 calificación a lograr.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="6"
        data-path="1.55.73.74.76.79"
-       transform="translate(975,264.375)"
+       transform="translate(975,454.375)"
        class="markmap-node"
-       id="g9163">
+       id="g1220">
       <line
          x1="-1"
          x2="199"
@@ -1309,7 +1321,7 @@ calificación a lograr.</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9161" />
+         id="line1218" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1319,6 +1331,7 @@ calificación a lograr.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Como se ejemplifica<xhtml:br />
 
+
 resolviendo <xhtml:a
    href="https://jsi2jsi.github.io/SfL/docs/Ejerc_Refr_Infr_PL/Referencia_Recursos_PL-SEP.html">este ejercicio</xhtml:a>
 </xhtml:div>
@@ -1327,9 +1340,9 @@ resolviendo <xhtml:a
     <g
        data-depth="6"
        data-path="1.55.73.74.76.77"
-       transform="translate(975,162.375)"
+       transform="translate(975,352.375)"
        class="markmap-node"
-       id="g9169">
+       id="g1226">
       <line
          x1="-1"
          x2="96"
@@ -1337,7 +1350,7 @@ resolviendo <xhtml:a
          y2="80"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9165" />
+         id="line1222" />
       <circle
          stroke-width="1.5"
          cx="94"
@@ -1345,7 +1358,7 @@ resolviendo <xhtml:a
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9167" />
+         id="circle1224" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1355,9 +1368,12 @@ resolviendo <xhtml:a
          style="opacity: 1;">
         <xhtml:div>Identifica y<xhtml:br />
 
+
 aporta<xhtml:br />
 
+
 al final de<xhtml:br />
+
 
 tu texto</xhtml:div>
       </foreignObject>
@@ -1365,9 +1381,9 @@ tu texto</xhtml:div>
     <g
        data-depth="6"
        data-path="1.55.56.57.58.62"
-       transform="translate(1062,-127.625)"
+       transform="translate(1062,62.375)"
        class="markmap-node"
-       id="g9173">
+       id="g1230">
       <line
          x1="-1"
          x2="234"
@@ -1375,7 +1391,7 @@ tu texto</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9171" />
+         id="line1228" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1389,9 +1405,9 @@ tu texto</xhtml:div>
     <g
        data-depth="6"
        data-path="1.55.56.57.58.61"
-       transform="translate(1062,-152.625)"
+       transform="translate(1062,37.375)"
        class="markmap-node"
-       id="g9177">
+       id="g1234">
       <line
          x1="-1"
          x2="257"
@@ -1399,7 +1415,7 @@ tu texto</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9175" />
+         id="line1232" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1413,9 +1429,9 @@ tu texto</xhtml:div>
     <g
        data-depth="6"
        data-path="1.55.56.57.58.60"
-       transform="translate(1062,-177.625)"
+       transform="translate(1062,12.375)"
        class="markmap-node"
-       id="g9181">
+       id="g1238">
       <line
          x1="-1"
          x2="126"
@@ -1423,7 +1439,7 @@ tu texto</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9179" />
+         id="line1236" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1437,9 +1453,9 @@ tu texto</xhtml:div>
     <g
        data-depth="6"
        data-path="1.55.56.57.58.59"
-       transform="translate(1062,-202.625)"
+       transform="translate(1062,-12.625)"
        class="markmap-node"
-       id="g9185">
+       id="g1242">
       <line
          x1="-1"
          x2="215"
@@ -1447,7 +1463,7 @@ tu texto</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9183" />
+         id="line1240" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1461,9 +1477,9 @@ tu texto</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.104.109"
-       transform="translate(831,1129.375)"
+       transform="translate(831,1319.375)"
        class="markmap-node"
-       id="g9189">
+       id="g1246">
       <line
          x1="-1"
          x2="279"
@@ -1471,7 +1487,7 @@ tu texto</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9187" />
+         id="line1244" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1481,15 +1497,16 @@ tu texto</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Resuelve los ejercicios<xhtml:br />
 
+
 aportados en cada retroalimentación</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.55.89.104.105"
-       transform="translate(831,1054.375)"
+       transform="translate(831,1244.375)"
        class="markmap-node"
-       id="g9195">
+       id="g1252">
       <line
          x1="-1"
          x2="24"
@@ -1497,7 +1514,7 @@ aportados en cada retroalimentación</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9191" />
+         id="line1248" />
       <circle
          stroke-width="1.5"
          cx="22"
@@ -1505,7 +1522,7 @@ aportados en cada retroalimentación</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9193" />
+         id="circle1250" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1519,9 +1536,9 @@ aportados en cada retroalimentación</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.96.99"
-       transform="translate(806,881.875)"
+       transform="translate(806,1071.875)"
        class="markmap-node"
-       id="g9201">
+       id="g1258">
       <line
          x1="-1"
          x2="192"
@@ -1529,7 +1546,7 @@ aportados en cada retroalimentación</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9197" />
+         id="line1254" />
       <circle
          stroke-width="1.5"
          cx="190"
@@ -1537,7 +1554,7 @@ aportados en cada retroalimentación</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9199" />
+         id="circle1256" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1547,15 +1564,16 @@ aportados en cada retroalimentación</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Tus retroalimentaciones<xhtml:br />
 
+
 a actividades calificadas</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.55.89.96.98"
-       transform="translate(806,774.375)"
+       transform="translate(806,964.375)"
        class="markmap-node"
-       id="g9205">
+       id="g1262">
       <line
          x1="-1"
          x2="245"
@@ -1563,7 +1581,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9203" />
+         id="line1260" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1577,9 +1595,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.96.97"
-       transform="translate(806,749.375)"
+       transform="translate(806,939.375)"
        class="markmap-node"
-       id="g9209">
+       id="g1266">
       <line
          x1="-1"
          x2="108"
@@ -1587,7 +1605,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9207" />
+         id="line1264" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1601,9 +1619,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.90.95"
-       transform="translate(823,719.375)"
+       transform="translate(823,909.375)"
        class="markmap-node"
-       id="g9213">
+       id="g1270">
       <line
          x1="-1"
          x2="204"
@@ -1611,7 +1629,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9211" />
+         id="line1268" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1625,9 +1643,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.90.94"
-       transform="translate(823,694.375)"
+       transform="translate(823,884.375)"
        class="markmap-node"
-       id="g9217">
+       id="g1274">
       <line
          x1="-1"
          x2="378"
@@ -1635,7 +1653,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9215" />
+         id="line1272" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1649,9 +1667,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.90.93"
-       transform="translate(823,669.375)"
+       transform="translate(823,859.375)"
        class="markmap-node"
-       id="g9221">
+       id="g1278">
       <line
          x1="-1"
          x2="411"
@@ -1659,7 +1677,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9219" />
+         id="line1276" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1673,9 +1691,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.90.92"
-       transform="translate(823,644.375)"
+       transform="translate(823,834.375)"
        class="markmap-node"
-       id="g9225">
+       id="g1282">
       <line
          x1="-1"
          x2="280"
@@ -1683,7 +1701,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9223" />
+         id="line1280" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1697,9 +1715,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.89.90.91"
-       transform="translate(823,619.375)"
+       transform="translate(823,809.375)"
        class="markmap-node"
-       id="g9229">
+       id="g1286">
       <line
          x1="-1"
          x2="241"
@@ -1707,7 +1725,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9227" />
+         id="line1284" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1721,9 +1739,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.73.80.82"
-       transform="translate(803,476.875)"
+       transform="translate(803,666.875)"
        class="markmap-node"
-       id="g9235">
+       id="g1292">
       <line
          x1="-1"
          x2="150"
@@ -1731,7 +1749,7 @@ a actividades calificadas</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9231" />
+         id="line1288" />
       <circle
          stroke-width="1.5"
          cx="148"
@@ -1739,7 +1757,7 @@ a actividades calificadas</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9233" />
+         id="circle1290" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1753,9 +1771,9 @@ a actividades calificadas</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.73.80.81"
-       transform="translate(803,314.375)"
+       transform="translate(803,504.375)"
        class="markmap-node"
-       id="g9239">
+       id="g1296">
       <line
          x1="-1"
          x2="268"
@@ -1763,7 +1781,7 @@ a actividades calificadas</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9237" />
+         id="line1294" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1775,15 +1793,16 @@ a actividades calificadas</xhtml:div>
    href="https://youtu.be/1Fh3Nl92-w8">Los peligros en tu persona</xhtml:a>
 <xhtml:br />
 
+
 (Redacta tus notas, las emplearás)</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.55.73.74.76"
-       transform="translate(756,203.375)"
+       transform="translate(756,393.375)"
        class="markmap-node"
-       id="g9245">
+       id="g1302">
       <line
          x1="-1"
          x2="141"
@@ -1791,7 +1810,7 @@ a actividades calificadas</xhtml:div>
          y2="60"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9241" />
+         id="line1298" />
       <circle
          stroke-width="1.5"
          cx="139"
@@ -1799,7 +1818,7 @@ a actividades calificadas</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9243" />
+         id="circle1300" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1809,7 +1828,9 @@ a actividades calificadas</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Por cada recurso<xhtml:br />
 
+
 que retomes<xhtml:br />
+
 
 en tus escritos</xhtml:div>
       </foreignObject>
@@ -1817,9 +1838,9 @@ en tus escritos</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.73.74.75"
-       transform="translate(756,112.375)"
+       transform="translate(756,302.375)"
        class="markmap-node"
-       id="g9249">
+       id="g1306">
       <line
          x1="-1"
          x2="249"
@@ -1827,7 +1848,7 @@ en tus escritos</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9247" />
+         id="line1304" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1837,15 +1858,16 @@ en tus escritos</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Expón en tus propias ideas<xhtml:br />
 
+
 lo que leas, abordes o consultes</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.55.56.67.72"
-       transform="translate(907,82.375)"
+       transform="translate(907,272.375)"
        class="markmap-node"
-       id="g9253">
+       id="g1310">
       <line
          x1="-1"
          x2="162"
@@ -1853,7 +1875,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9251" />
+         id="line1308" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1867,9 +1889,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.67.71"
-       transform="translate(907,57.375)"
+       transform="translate(907,247.375)"
        class="markmap-node"
-       id="g9257">
+       id="g1314">
       <line
          x1="-1"
          x2="88"
@@ -1877,7 +1899,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9255" />
+         id="line1312" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1891,9 +1913,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.67.70"
-       transform="translate(907,32.375)"
+       transform="translate(907,222.375)"
        class="markmap-node"
-       id="g9261">
+       id="g1318">
       <line
          x1="-1"
          x2="60"
@@ -1901,7 +1923,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9259" />
+         id="line1316" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1915,9 +1937,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.67.69"
-       transform="translate(907,7.375)"
+       transform="translate(907,197.375)"
        class="markmap-node"
-       id="g9265">
+       id="g1322">
       <line
          x1="-1"
          x2="66"
@@ -1925,7 +1947,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9263" />
+         id="line1320" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1939,9 +1961,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.67.68"
-       transform="translate(907,-17.625)"
+       transform="translate(907,172.375)"
        class="markmap-node"
-       id="g9269">
+       id="g1326">
       <line
          x1="-1"
          x2="111"
@@ -1949,7 +1971,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9267" />
+         id="line1324" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1963,9 +1985,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.63.66"
-       transform="translate(975,-47.625)"
+       transform="translate(975,142.375)"
        class="markmap-node"
-       id="g9273">
+       id="g1330">
       <line
          x1="-1"
          x2="144"
@@ -1973,7 +1995,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9271" />
+         id="line1328" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -1987,9 +2009,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.63.65"
-       transform="translate(975,-72.625)"
+       transform="translate(975,117.375)"
        class="markmap-node"
-       id="g9277">
+       id="g1334">
       <line
          x1="-1"
          x2="214"
@@ -1997,7 +2019,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9275" />
+         id="line1332" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2011,9 +2033,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.63.64"
-       transform="translate(975,-97.625)"
+       transform="translate(975,92.375)"
        class="markmap-node"
-       id="g9281">
+       id="g1338">
       <line
          x1="-1"
          x2="175"
@@ -2021,7 +2043,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9279" />
+         id="line1336" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2035,9 +2057,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.55.56.57.58"
-       transform="translate(922,-165.125)"
+       transform="translate(922,24.875)"
        class="markmap-node"
-       id="g9287">
+       id="g1344">
       <line
          x1="-1"
          x2="62"
@@ -2045,7 +2067,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9283" />
+         id="line1340" />
       <circle
          stroke-width="1.5"
          cx="60"
@@ -2053,7 +2075,7 @@ lo que leas, abordes o consultes</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9285" />
+         id="circle1342" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2067,9 +2089,9 @@ lo que leas, abordes o consultes</xhtml:div>
     <g
        data-depth="5"
        data-path="1.42.50.53.54"
-       transform="translate(882,-252.625)"
+       transform="translate(882,-62.625)"
        class="markmap-node"
-       id="g9291">
+       id="g1348">
       <line
          x1="-1"
          x2="242"
@@ -2077,7 +2099,7 @@ lo que leas, abordes o consultes</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9289" />
+         id="line1346" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2089,15 +2111,16 @@ lo que leas, abordes o consultes</xhtml:div>
    href="http://registro.prepaenlinea.sep.gob.mx/registro/public/index.php/estatus_prope">Recupera tus claves de acceso</xhtml:a>
 <xhtml:br />
 
+
 con tu número de folio</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.42.50.51.52"
-       transform="translate(819,-307.625)"
+       transform="translate(819,-117.625)"
        class="markmap-node"
-       id="g9295">
+       id="g1352">
       <line
          x1="-1"
          x2="260"
@@ -2105,7 +2128,7 @@ con tu número de folio</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9293" />
+         id="line1350" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2115,15 +2138,16 @@ con tu número de folio</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>(los datos que te<xhtml:br />
 
+
 proporcionó Prepa en Línea SEP)</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.42.47.48.49"
-       transform="translate(967,-387.625)"
+       transform="translate(967,-197.625)"
        class="markmap-node"
-       id="g9299">
+       id="g1356">
       <line
          x1="-1"
          x2="113"
@@ -2131,7 +2155,7 @@ proporcionó Prepa en Línea SEP)</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9297" />
+         id="line1354" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2143,6 +2167,7 @@ proporcionó Prepa en Línea SEP)</xhtml:div>
           <xhtml:a
              href="https://jsi2jsi.github.io/SfL/docs/2Procd_Ingr_M_A-PL/Ingresar_Mi_Aula_PL-SEP.html">Soluciona<xhtml:br />
 
+
 este ejercicio</xhtml:a>
         </xhtml:div>
       </foreignObject>
@@ -2150,36 +2175,43 @@ este ejercicio</xhtml:a>
     <g
        data-depth="5"
        data-path="1.12.30.40.41"
-       transform="translate(970,-522.625)"
+       transform="translate(970,-712.625)"
        class="markmap-node"
-       id="g9303">
+       id="g1360">
       <line
          x1="-1"
-         x2="249"
-         y1="20"
-         y2="20"
+         x2="216"
+         y1="410"
+         y2="410"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9301" />
+         id="line1358" />
       <foreignObject
          class="markmap-foreign"
          x="8"
          y="0"
-         width="231"
-         height="20"
+         width="198"
+         height="410"
          style="opacity: 1;">
         <xhtml:div>
+          <xhtml:img
+             src="https://jsi2jsi.github.io/SfL/PL-24/Mnsgs/Bienv_Ingr_acadm.png"
+             alt="Unas primeras notas"/>
+          <xhtml:br />
           <xhtml:a
-             href="https://www.youtube.com/watch?v=Xxl015kmxMQ">Aquí unas primeras anotaciones</xhtml:a>
+             href="https://www.youtube.com/watch?v=Xxl015kmxMQ">Atiende a estas primeras<xhtml:br />
+
+
+anotaciones</xhtml:a>
         </xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.12.30.35.39"
-       transform="translate(984,-572.625)"
+       transform="translate(984,-762.625)"
        class="markmap-node"
-       id="g9307">
+       id="g1364">
       <line
          x1="-1"
          x2="201"
@@ -2187,7 +2219,7 @@ este ejercicio</xhtml:a>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9305" />
+         id="line1362" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2197,15 +2229,16 @@ este ejercicio</xhtml:a>
          style="opacity: 1;">
         <xhtml:div>Compartir conocimientos,<xhtml:br />
 
+
 experiencias</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.12.30.35.38"
-       transform="translate(984,-597.625)"
+       transform="translate(984,-787.625)"
        class="markmap-node"
-       id="g9311">
+       id="g1368">
       <line
          x1="-1"
          x2="135"
@@ -2213,7 +2246,7 @@ experiencias</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9309" />
+         id="line1366" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2227,9 +2260,9 @@ experiencias</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.30.35.37"
-       transform="translate(984,-622.625)"
+       transform="translate(984,-812.625)"
        class="markmap-node"
-       id="g9315">
+       id="g1372">
       <line
          x1="-1"
          x2="85"
@@ -2237,7 +2270,7 @@ experiencias</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9313" />
+         id="line1370" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2251,9 +2284,9 @@ experiencias</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.30.35.36"
-       transform="translate(984,-647.625)"
+       transform="translate(984,-837.625)"
        class="markmap-node"
-       id="g9319">
+       id="g1376">
       <line
          x1="-1"
          x2="100"
@@ -2261,7 +2294,7 @@ experiencias</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9317" />
+         id="line1374" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2275,9 +2308,9 @@ experiencias</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.30.31.34"
-       transform="translate(937,-717.625)"
+       transform="translate(937,-907.625)"
        class="markmap-node"
-       id="g9323">
+       id="g1380">
       <line
          x1="-1"
          x2="210"
@@ -2285,7 +2318,7 @@ experiencias</xhtml:div>
          y2="60"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9321" />
+         id="line1378" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2295,7 +2328,9 @@ experiencias</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Ejercicios que incentivan<xhtml:br />
 
+
 a tu intelecto y<xhtml:br />
+
 
 potencializan tu desarrollo.</xhtml:div>
       </foreignObject>
@@ -2303,9 +2338,9 @@ potencializan tu desarrollo.</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.30.31.33"
-       transform="translate(937,-762.625)"
+       transform="translate(937,-952.625)"
        class="markmap-node"
-       id="g9327">
+       id="g1384">
       <line
          x1="-1"
          x2="174"
@@ -2313,7 +2348,7 @@ potencializan tu desarrollo.</xhtml:div>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9325" />
+         id="line1382" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2323,15 +2358,16 @@ potencializan tu desarrollo.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Recomendaciones de<xhtml:br />
 
+
 participación</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.12.30.31.32"
-       transform="translate(937,-787.625)"
+       transform="translate(937,-977.625)"
        class="markmap-node"
-       id="g9331">
+       id="g1388">
       <line
          x1="-1"
          x2="123"
@@ -2339,7 +2375,7 @@ participación</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9329" />
+         id="line1386" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2353,9 +2389,9 @@ participación</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.18.23.25"
-       transform="translate(979,-860.125)"
+       transform="translate(979,-1050.125)"
        class="markmap-node"
-       id="g9335">
+       id="g1392">
       <line
          x1="-1"
          x2="158"
@@ -2363,7 +2399,7 @@ participación</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9333" />
+         id="line1390" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2377,9 +2413,9 @@ participación</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.18.23.24"
-       transform="translate(979,-885.125)"
+       transform="translate(979,-1075.125)"
        class="markmap-node"
-       id="g9339">
+       id="g1396">
       <line
          x1="-1"
          x2="172"
@@ -2387,7 +2423,7 @@ participación</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9337" />
+         id="line1394" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2401,9 +2437,9 @@ participación</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.18.19.21"
-       transform="translate(837,-945.125)"
+       transform="translate(837,-1135.125)"
        class="markmap-node"
-       id="g9343">
+       id="g1400">
       <line
          x1="-1"
          x2="211"
@@ -2411,7 +2447,7 @@ participación</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9341" />
+         id="line1398" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2425,9 +2461,9 @@ participación</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.18.19.20"
-       transform="translate(837,-970.125)"
+       transform="translate(837,-1160.125)"
        class="markmap-node"
-       id="g9347">
+       id="g1404">
       <line
          x1="-1"
          x2="161"
@@ -2435,7 +2471,7 @@ participación</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9345" />
+         id="line1402" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2449,9 +2485,9 @@ participación</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.13.14.17"
-       transform="translate(790,-1020.125)"
+       transform="translate(790,-1210.125)"
        class="markmap-node"
-       id="g9351">
+       id="g1408">
       <line
          x1="-1"
          x2="175"
@@ -2459,7 +2495,7 @@ participación</xhtml:div>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9349" />
+         id="line1406" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2469,15 +2505,16 @@ participación</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Tu esfuerzo individual<xhtml:br />
 
+
 te proyecta</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.12.13.14.16"
-       transform="translate(790,-1045.125)"
+       transform="translate(790,-1235.125)"
        class="markmap-node"
-       id="g9355">
+       id="g1412">
       <line
          x1="-1"
          x2="135"
@@ -2485,7 +2522,7 @@ te proyecta</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9353" />
+         id="line1410" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2499,9 +2536,9 @@ te proyecta</xhtml:div>
     <g
        data-depth="5"
        data-path="1.12.13.14.15"
-       transform="translate(790,-1090.125)"
+       transform="translate(790,-1280.125)"
        class="markmap-node"
-       id="g9359">
+       id="g1416">
       <line
          x1="-1"
          x2="261"
@@ -2509,7 +2546,7 @@ te proyecta</xhtml:div>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9357" />
+         id="line1414" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2519,15 +2556,16 @@ te proyecta</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>A la distancia<xhtml:br />
 
+
 (en tu hogar, trabajo, parque, etc.)</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="5"
        data-path="1.2.6.8.11"
-       transform="translate(844,-1120.125)"
+       transform="translate(844,-1310.125)"
        class="markmap-node"
-       id="g9363">
+       id="g1420">
       <line
          x1="-1"
          x2="82"
@@ -2535,7 +2573,7 @@ te proyecta</xhtml:div>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9361" />
+         id="line1418" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2549,9 +2587,9 @@ te proyecta</xhtml:div>
     <g
        data-depth="5"
        data-path="1.2.6.8.10"
-       transform="translate(844,-1185.125)"
+       transform="translate(844,-1375.125)"
        class="markmap-node"
-       id="g9367">
+       id="g1424">
       <line
          x1="-1"
          x2="235"
@@ -2559,7 +2597,7 @@ te proyecta</xhtml:div>
          y2="60"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9365" />
+         id="line1422" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2569,7 +2607,9 @@ te proyecta</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Revisa, evalúa y retroalimenta<xhtml:br />
 
+
 tus actividades integradoras y<xhtml:br />
+
 
 participaciones</xhtml:div>
       </foreignObject>
@@ -2577,9 +2617,9 @@ participaciones</xhtml:div>
     <g
        data-depth="5"
        data-path="1.2.6.8.9"
-       transform="translate(844,-1210.125)"
+       transform="translate(844,-1400.125)"
        class="markmap-node"
-       id="g9371">
+       id="g1428">
       <line
          x1="-1"
          x2="188"
@@ -2587,7 +2627,7 @@ participaciones</xhtml:div>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9369" />
+         id="line1426" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2601,9 +2641,9 @@ participaciones</xhtml:div>
     <g
        data-depth="4"
        data-path="1.55.89.104"
-       transform="translate(589,1091.875)"
+       transform="translate(589,1281.875)"
        class="markmap-node"
-       id="g9377">
+       id="g1434">
       <line
          x1="-1"
          x2="164"
@@ -2611,7 +2651,7 @@ participaciones</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9373" />
+         id="line1430" />
       <circle
          stroke-width="1.5"
          cx="162"
@@ -2619,7 +2659,7 @@ participaciones</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9375" />
+         id="circle1432" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2629,15 +2669,16 @@ participaciones</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>No basta con solo<xhtml:br />
 
+
 entregar actividades</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.55.89.96"
-       transform="translate(589,825.625)"
+       transform="translate(589,1015.625)"
        class="markmap-node"
-       id="g9383">
+       id="g1440">
       <line
          x1="-1"
          x2="139"
@@ -2645,7 +2686,7 @@ entregar actividades</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9379" />
+         id="line1436" />
       <circle
          stroke-width="1.5"
          cx="137"
@@ -2653,7 +2694,7 @@ entregar actividades</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9381" />
+         id="circle1438" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2667,9 +2708,9 @@ entregar actividades</xhtml:div>
     <g
        data-depth="4"
        data-path="1.55.89.90"
-       transform="translate(589,669.375)"
+       transform="translate(589,859.375)"
        class="markmap-node"
-       id="g9389">
+       id="g1446">
       <line
          x1="-1"
          x2="156"
@@ -2677,7 +2718,7 @@ entregar actividades</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9385" />
+         id="line1442" />
       <circle
          stroke-width="1.5"
          cx="154"
@@ -2685,7 +2726,7 @@ entregar actividades</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9387" />
+         id="circle1444" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2699,9 +2740,9 @@ entregar actividades</xhtml:div>
     <g
        data-depth="4"
        data-path="1.55.73.80"
-       transform="translate(597,385.625)"
+       transform="translate(597,575.625)"
        class="markmap-node"
-       id="g9395">
+       id="g1452">
       <line
          x1="-1"
          x2="128"
@@ -2709,7 +2750,7 @@ entregar actividades</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9391" />
+         id="line1448" />
       <circle
          stroke-width="1.5"
          cx="126"
@@ -2717,7 +2758,7 @@ entregar actividades</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9393" />
+         id="circle1450" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2727,15 +2768,16 @@ entregar actividades</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>En caso de<xhtml:br />
 
+
 deshonestidad.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.55.73.74"
-       transform="translate(597,177.875)"
+       transform="translate(597,367.875)"
        class="markmap-node"
-       id="g9401">
+       id="g1458">
       <line
          x1="-1"
          x2="81"
@@ -2743,7 +2785,7 @@ deshonestidad.</xhtml:div>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9397" />
+         id="line1454" />
       <circle
          stroke-width="1.5"
          cx="79"
@@ -2751,7 +2793,7 @@ deshonestidad.</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9399" />
+         id="circle1456" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2765,9 +2807,9 @@ deshonestidad.</xhtml:div>
     <g
        data-depth="4"
        data-path="1.55.56.67"
-       transform="translate(588,22.375)"
+       transform="translate(588,212.375)"
        class="markmap-node"
-       id="g9407">
+       id="g1464">
       <line
          x1="-1"
          x2="241"
@@ -2775,7 +2817,7 @@ deshonestidad.</xhtml:div>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9403" />
+         id="line1460" />
       <circle
          stroke-width="1.5"
          cx="239"
@@ -2783,7 +2825,7 @@ deshonestidad.</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9405" />
+         id="circle1462" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2793,7 +2835,8 @@ deshonestidad.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:p
-             data-lines="106,108">Emplear las herramientas de la<xhtml:br />
+             data-lines="109,111">Emplear las herramientas de la<xhtml:br />
+
 
 plataforma de aprendizaje</xhtml:p>
         </xhtml:div>
@@ -2802,9 +2845,9 @@ plataforma de aprendizaje</xhtml:p>
     <g
        data-depth="4"
        data-path="1.55.56.63"
-       transform="translate(588,-82.625)"
+       transform="translate(588,107.375)"
        class="markmap-node"
-       id="g9413">
+       id="g1470">
       <line
          x1="-1"
          x2="309"
@@ -2812,7 +2855,7 @@ plataforma de aprendizaje</xhtml:p>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9409" />
+         id="line1466" />
       <circle
          stroke-width="1.5"
          cx="307"
@@ -2820,7 +2863,7 @@ plataforma de aprendizaje</xhtml:p>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9411" />
+         id="circle1468" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2830,7 +2873,8 @@ plataforma de aprendizaje</xhtml:p>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:p
-             data-lines="100,102">Identificar las características<xhtml:br />
+             data-lines="103,105">Identificar las características<xhtml:br />
+
 
 de cada espacio de Prepa en Línea-SEP</xhtml:p>
         </xhtml:div>
@@ -2839,9 +2883,9 @@ de cada espacio de Prepa en Línea-SEP</xhtml:p>
     <g
        data-depth="4"
        data-path="1.55.56.57"
-       transform="translate(588,-165.125)"
+       transform="translate(588,24.875)"
        class="markmap-node"
-       id="g9419">
+       id="g1476">
       <line
          x1="-1"
          x2="256"
@@ -2849,7 +2893,7 @@ de cada espacio de Prepa en Línea-SEP</xhtml:p>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9415" />
+         id="line1472" />
       <circle
          stroke-width="1.5"
          cx="254"
@@ -2857,7 +2901,7 @@ de cada espacio de Prepa en Línea-SEP</xhtml:p>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9417" />
+         id="circle1474" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2867,16 +2911,16 @@ de cada espacio de Prepa en Línea-SEP</xhtml:p>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:p
-             data-lines="94,95">Emplear el navegador de internet</xhtml:p>
+             data-lines="97,98">Emplear el navegador de internet</xhtml:p>
         </xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.42.50.53"
-       transform="translate(585,-252.625)"
+       transform="translate(585,-62.625)"
        class="markmap-node"
-       id="g9425">
+       id="g1482">
       <line
          x1="-1"
          x2="219"
@@ -2884,7 +2928,7 @@ de cada espacio de Prepa en Línea-SEP</xhtml:p>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9421" />
+         id="line1478" />
       <circle
          stroke-width="1.5"
          cx="217"
@@ -2892,7 +2936,7 @@ de cada espacio de Prepa en Línea-SEP</xhtml:p>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9423" />
+         id="circle1480" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2902,15 +2946,16 @@ de cada espacio de Prepa en Línea-SEP</xhtml:p>
          style="opacity: 1;">
         <xhtml:div>En caso de no contar<xhtml:br />
 
+
 con tu Usuario y contraseña</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.42.50.51"
-       transform="translate(585,-317.625)"
+       transform="translate(585,-127.625)"
        class="markmap-node"
-       id="g9431">
+       id="g1488">
       <line
          x1="-1"
          x2="156"
@@ -2918,7 +2963,7 @@ con tu Usuario y contraseña</xhtml:div>
          y2="60"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9427" />
+         id="line1484" />
       <circle
          stroke-width="1.5"
          cx="154"
@@ -2926,7 +2971,7 @@ con tu Usuario y contraseña</xhtml:div>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9429" />
+         id="circle1486" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2936,7 +2981,9 @@ con tu Usuario y contraseña</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Ten a la mano tu<xhtml:br />
 
+
 número de Usuario<xhtml:br />
+
 
 y contraseña</xhtml:div>
       </foreignObject>
@@ -2944,9 +2991,9 @@ y contraseña</xhtml:div>
     <g
        data-depth="4"
        data-path="1.42.47.48"
-       transform="translate(693,-407.625)"
+       transform="translate(693,-217.625)"
        class="markmap-node"
-       id="g9437">
+       id="g1494">
       <line
          x1="-1"
          x2="196"
@@ -2954,7 +3001,7 @@ y contraseña</xhtml:div>
          y2="80"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9433" />
+         id="line1490" />
       <circle
          stroke-width="1.5"
          cx="194"
@@ -2962,7 +3009,7 @@ y contraseña</xhtml:div>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9435" />
+         id="circle1492" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -2972,9 +3019,12 @@ y contraseña</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Corrobora tu aprendizaje<xhtml:br />
 
+
 de navegación entre los<xhtml:br />
 
+
 diversos espacios de<xhtml:br />
+
 
 Prepa en Línea-SEP</xhtml:div>
       </foreignObject>
@@ -2982,9 +3032,9 @@ Prepa en Línea-SEP</xhtml:div>
     <g
        data-depth="4"
        data-path="1.42.44.46"
-       transform="translate(737,-437.625)"
+       transform="translate(737,-247.625)"
        class="markmap-node"
-       id="g9441">
+       id="g1498">
       <line
          x1="-1"
          x2="129"
@@ -2992,7 +3042,7 @@ Prepa en Línea-SEP</xhtml:div>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9439" />
+         id="line1496" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3009,9 +3059,9 @@ Prepa en Línea-SEP</xhtml:div>
     <g
        data-depth="4"
        data-path="1.42.44.45"
-       transform="translate(737,-482.625)"
+       transform="translate(737,-292.625)"
        class="markmap-node"
-       id="g9445">
+       id="g1502">
       <line
          x1="-1"
          x2="224"
@@ -3019,7 +3069,7 @@ Prepa en Línea-SEP</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9443" />
+         id="line1500" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3029,15 +3079,16 @@ Prepa en Línea-SEP</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Redacta tus apuntes,<xhtml:br />
 
+
 más adelante los emplearas.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.12.30.40"
-       transform="translate(753,-532.625)"
+       transform="translate(753,-527.625)"
        class="markmap-node"
-       id="g9451">
+       id="g1508">
       <line
          x1="-1"
          x2="139"
@@ -3045,7 +3096,7 @@ más adelante los emplearas.</xhtml:div>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9447" />
+         id="line1504" />
       <circle
          stroke-width="1.5"
          cx="137"
@@ -3053,7 +3104,7 @@ más adelante los emplearas.</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9449" />
+         id="circle1506" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3063,15 +3114,16 @@ más adelante los emplearas.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>¡Así que,<xhtml:br />
 
+
 manos a la obra!</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.12.30.35"
-       transform="translate(753,-600.125)"
+       transform="translate(753,-790.125)"
        class="markmap-node"
-       id="g9457">
+       id="g1514">
       <line
          x1="-1"
          x2="153"
@@ -3079,7 +3131,7 @@ manos a la obra!</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9453" />
+         id="line1510" />
       <circle
          stroke-width="1.5"
          cx="151"
@@ -3087,7 +3139,7 @@ manos a la obra!</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9455" />
+         id="circle1512" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3101,9 +3153,9 @@ manos a la obra!</xhtml:div>
     <g
        data-depth="4"
        data-path="1.12.30.31"
-       transform="translate(753,-742.625)"
+       transform="translate(753,-932.625)"
        class="markmap-node"
-       id="g9463">
+       id="g1520">
       <line
          x1="-1"
          x2="106"
@@ -3111,7 +3163,7 @@ manos a la obra!</xhtml:div>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9459" />
+         id="line1516" />
       <circle
          stroke-width="1.5"
          cx="104"
@@ -3119,7 +3171,7 @@ manos a la obra!</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9461" />
+         id="circle1518" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3129,15 +3181,16 @@ manos a la obra!</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Encontrarás<xhtml:br />
 
+
 diariamente</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.12.26.29"
-       transform="translate(686,-792.625)"
+       transform="translate(686,-982.625)"
        class="markmap-node"
-       id="g9467">
+       id="g1524">
       <line
          x1="-1"
          x2="160"
@@ -3145,7 +3198,7 @@ diariamente</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9465" />
+         id="line1522" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3159,9 +3212,9 @@ diariamente</xhtml:div>
     <g
        data-depth="4"
        data-path="1.12.26.28"
-       transform="translate(686,-817.625)"
+       transform="translate(686,-1007.625)"
        class="markmap-node"
-       id="g9471">
+       id="g1528">
       <line
          x1="-1"
          x2="188"
@@ -3169,7 +3222,7 @@ diariamente</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9469" />
+         id="line1526" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3183,9 +3236,9 @@ diariamente</xhtml:div>
     <g
        data-depth="4"
        data-path="1.12.26.27"
-       transform="translate(686,-842.625)"
+       transform="translate(686,-1032.625)"
        class="markmap-node"
-       id="g9475">
+       id="g1532">
       <line
          x1="-1"
          x2="89"
@@ -3193,7 +3246,7 @@ diariamente</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9473" />
+         id="line1530" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3207,9 +3260,9 @@ diariamente</xhtml:div>
     <g
        data-depth="4"
        data-path="1.12.18.23"
-       transform="translate(665,-872.625)"
+       transform="translate(665,-1062.625)"
        class="markmap-node"
-       id="g9481">
+       id="g1538">
       <line
          x1="-1"
          x2="236"
@@ -3217,7 +3270,7 @@ diariamente</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9477" />
+         id="line1534" />
       <circle
          stroke-width="1.5"
          cx="234"
@@ -3225,7 +3278,7 @@ diariamente</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9479" />
+         id="circle1536" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3239,9 +3292,9 @@ diariamente</xhtml:div>
     <g
        data-depth="4"
        data-path="1.12.18.22"
-       transform="translate(665,-915.125)"
+       transform="translate(665,-1105.125)"
        class="markmap-node"
-       id="g9485">
+       id="g1542">
       <line
          x1="-1"
          x2="260"
@@ -3249,7 +3302,7 @@ diariamente</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9483" />
+         id="line1540" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3263,9 +3316,9 @@ diariamente</xhtml:div>
     <g
        data-depth="4"
        data-path="1.12.18.19"
-       transform="translate(665,-957.625)"
+       transform="translate(665,-1147.625)"
        class="markmap-node"
-       id="g9491">
+       id="g1548">
       <line
          x1="-1"
          x2="94"
@@ -3273,7 +3326,7 @@ diariamente</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9487" />
+         id="line1544" />
       <circle
          stroke-width="1.5"
          cx="92"
@@ -3281,7 +3334,7 @@ diariamente</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9489" />
+         id="circle1546" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3295,9 +3348,9 @@ diariamente</xhtml:div>
     <g
        data-depth="4"
        data-path="1.12.13.14"
-       transform="translate(622,-1045.125)"
+       transform="translate(622,-1235.125)"
        class="markmap-node"
-       id="g9497">
+       id="g1554">
       <line
          x1="-1"
          x2="90"
@@ -3305,7 +3358,7 @@ diariamente</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9493" />
+         id="line1550" />
       <circle
          stroke-width="1.5"
          cx="88"
@@ -3313,7 +3366,7 @@ diariamente</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9495" />
+         id="circle1552" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3327,9 +3380,9 @@ diariamente</xhtml:div>
     <g
        data-depth="4"
        data-path="1.2.6.8"
-       transform="translate(594,-1175.125)"
+       transform="translate(594,-1365.125)"
        class="markmap-node"
-       id="g9503">
+       id="g1560">
       <line
          x1="-1"
          x2="172"
@@ -3337,7 +3390,7 @@ diariamente</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9499" />
+         id="line1556" />
       <circle
          stroke-width="1.5"
          cx="170"
@@ -3345,7 +3398,7 @@ diariamente</xhtml:div>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9501" />
+         id="circle1558" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3355,15 +3408,16 @@ diariamente</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Rumbo a tus mejores<xhtml:br />
 
+
 aprendizajes</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="4"
        data-path="1.2.6.7"
-       transform="translate(594,-1240.125)"
+       transform="translate(594,-1430.125)"
        class="markmap-node"
-       id="g9507">
+       id="g1564">
       <line
          x1="-1"
          x2="180"
@@ -3371,7 +3425,7 @@ aprendizajes</xhtml:div>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9505" />
+         id="line1562" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3385,9 +3439,9 @@ aprendizajes</xhtml:div>
     <g
        data-depth="4"
        data-path="1.2.3.4"
-       transform="translate(683,-1340.125)"
+       transform="translate(683,-1530.125)"
        class="markmap-node"
-       id="g9511">
+       id="g1568">
       <line
          x1="-1"
          x2="213"
@@ -3395,7 +3449,7 @@ aprendizajes</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9509" />
+         id="line1566" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3405,15 +3459,16 @@ aprendizajes</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Por tu decisión de abordar<xhtml:br />
 
+
 tus estudios de bachillerato</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="3"
        data-path="1.110.111"
-       transform="translate(390,1179.375)"
+       transform="translate(390,1369.375)"
        class="markmap-node"
-       id="g9515">
+       id="g1572">
       <line
          x1="-1"
          x2="530"
@@ -3421,7 +3476,7 @@ tus estudios de bachillerato</xhtml:div>
          y2="109"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9513" />
+         id="line1570" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3431,25 +3486,29 @@ tus estudios de bachillerato</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:table
-             data-lines="181,185">
+             data-lines="184,188">
             <xhtml:thead
-               data-lines="181,182">
+               data-lines="184,185">
               <xhtml:tr
-                 data-lines="181,182">
+                 data-lines="184,185">
                 <xhtml:th>Cómo<xhtml:br />
+
  navegar</xhtml:th>
                 <xhtml:th>Usar tu<xhtml:br />
+
 e-mail</xhtml:th>
                 <xhtml:th>Procesador <xhtml:br />
+
  de textos</xhtml:th>
                 <xhtml:th>Redacción <xhtml:br />
+
  de mensajes</xhtml:th>
               </xhtml:tr>
             </xhtml:thead>
             <xhtml:tbody
-               data-lines="183,185">
+               data-lines="186,188">
               <xhtml:tr
-                 data-lines="183,184">
+                 data-lines="186,187">
                 <xhtml:td>
                   <xhtml:a
                      href="https://www.youtube.com/watch?v=l-s62Q-4Zto">Lo básico</xhtml:a>
@@ -3464,12 +3523,13 @@ e-mail</xhtml:th>
                 </xhtml:td>
                 <xhtml:td>1) <xhtml:a
    href="https://drive.google.com/file/d/10sD91zjYE46eDpgXfAHrZ3l7x5lYi-Q2/view?usp=sharing">Opinar</xhtml:a>
+
  o 2) <xhtml:a
    href="https://drive.google.com/file/d/1lqKSTIznCdfKozQkKRn_1nyEmzbSe96s/view?usp=sharing">Solicitar</xhtml:a>
 </xhtml:td>
               </xhtml:tr>
               <xhtml:tr
-                 data-lines="184,185">
+                 data-lines="187,188">
                 <xhtml:td>
                   <xhtml:a
                      href="https://www.youtube.com/watch?v=EJ9TJy73U6A">¿Navegar?</xhtml:a>
@@ -3492,9 +3552,9 @@ e-mail</xhtml:th>
     <g
        data-depth="3"
        data-path="1.55.89"
-       transform="translate(386,890.625)"
+       transform="translate(386,1080.625)"
        class="markmap-node"
-       id="g9521">
+       id="g1578">
       <line
          x1="-1"
          x2="125"
@@ -3502,7 +3562,7 @@ e-mail</xhtml:th>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9517" />
+         id="line1574" />
       <circle
          stroke-width="1.5"
          cx="123"
@@ -3510,7 +3570,7 @@ e-mail</xhtml:th>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9519" />
+         id="circle1576" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3524,9 +3584,9 @@ e-mail</xhtml:th>
     <g
        data-depth="3"
        data-path="1.55.73"
-       transform="translate(386,281.75)"
+       transform="translate(386,471.75)"
        class="markmap-node"
-       id="g9527">
+       id="g1584">
       <line
          x1="-1"
          x2="133"
@@ -3534,7 +3594,7 @@ e-mail</xhtml:th>
          y2="40"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9523" />
+         id="line1580" />
       <circle
          stroke-width="1.5"
          cx="131"
@@ -3542,7 +3602,7 @@ e-mail</xhtml:th>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9525" />
+         id="circle1582" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3552,6 +3612,7 @@ e-mail</xhtml:th>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:strong>La originalidad <xhtml:br />
+
 de tus ideas</xhtml:strong>
         </xhtml:div>
       </foreignObject>
@@ -3559,9 +3620,9 @@ de tus ideas</xhtml:strong>
     <g
        data-depth="3"
        data-path="1.55.56"
-       transform="translate(386,-61.375)"
+       transform="translate(386,128.625)"
        class="markmap-node"
-       id="g9533">
+       id="g1590">
       <line
          x1="-1"
          x2="124"
@@ -3569,7 +3630,7 @@ de tus ideas</xhtml:strong>
          y2="20"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9529" />
+         id="line1586" />
       <circle
          stroke-width="1.5"
          cx="122"
@@ -3577,7 +3638,7 @@ de tus ideas</xhtml:strong>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9531" />
+         id="circle1588" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3591,9 +3652,9 @@ de tus ideas</xhtml:strong>
     <g
        data-depth="3"
        data-path="1.42.50"
-       transform="translate(384,-285.125)"
+       transform="translate(384,-95.125)"
        class="markmap-node"
-       id="g9539">
+       id="g1596">
       <line
          x1="-1"
          x2="123"
@@ -3601,7 +3662,7 @@ de tus ideas</xhtml:strong>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9535" />
+         id="line1592" />
       <circle
          stroke-width="1.5"
          cx="121"
@@ -3609,7 +3670,7 @@ de tus ideas</xhtml:strong>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9537" />
+         id="circle1594" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3619,7 +3680,8 @@ de tus ideas</xhtml:strong>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:p
-             data-lines="80,81">¿Dificultades <xhtml:br />
+             data-lines="83,84">¿Dificultades <xhtml:br />
+
  para ingresar?</xhtml:p>
         </xhtml:div>
       </foreignObject>
@@ -3627,9 +3689,9 @@ de tus ideas</xhtml:strong>
     <g
        data-depth="3"
        data-path="1.42.47"
-       transform="translate(384,-377.625)"
+       transform="translate(384,-187.625)"
        class="markmap-node"
-       id="g9545">
+       id="g1602">
       <line
          x1="-1"
          x2="231"
@@ -3637,7 +3699,7 @@ de tus ideas</xhtml:strong>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9541" />
+         id="line1598" />
       <circle
          stroke-width="1.5"
          cx="229"
@@ -3645,7 +3707,7 @@ de tus ideas</xhtml:strong>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9543" />
+         id="circle1600" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3655,7 +3717,7 @@ de tus ideas</xhtml:strong>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:p
-             data-lines="72,73">
+             data-lines="75,76">
             <xhtml:strong>¿Ya ingresaste a &quot;Mi Aula&quot;?</xhtml:strong>
           </xhtml:p>
         </xhtml:div>
@@ -3664,9 +3726,9 @@ de tus ideas</xhtml:strong>
     <g
        data-depth="3"
        data-path="1.42.44"
-       transform="translate(384,-470.125)"
+       transform="translate(384,-280.125)"
        class="markmap-node"
-       id="g9551">
+       id="g1608">
       <line
          x1="-1"
          x2="275"
@@ -3674,7 +3736,7 @@ de tus ideas</xhtml:strong>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9547" />
+         id="line1604" />
       <circle
          stroke-width="1.5"
          cx="273"
@@ -3682,7 +3744,7 @@ de tus ideas</xhtml:strong>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9549" />
+         id="circle1606" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3692,7 +3754,8 @@ de tus ideas</xhtml:strong>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:p
-             data-lines="65,67">Conforme navegues en los diversos<xhtml:br />
+             data-lines="68,70">Conforme navegues en los diversos<xhtml:br />
+
 
 espacios de Prepa en Línea-SEP</xhtml:p>
         </xhtml:div>
@@ -3701,9 +3764,9 @@ espacios de Prepa en Línea-SEP</xhtml:p>
     <g
        data-depth="3"
        data-path="1.42.43"
-       transform="translate(384,-535.125)"
+       transform="translate(384,-345.125)"
        class="markmap-node"
-       id="g9555">
+       id="g1612">
       <line
          x1="-1"
          x2="258"
@@ -3711,7 +3774,7 @@ espacios de Prepa en Línea-SEP</xhtml:p>
          y2="60"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9553" />
+         id="line1610" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3721,7 +3784,8 @@ espacios de Prepa en Línea-SEP</xhtml:p>
          style="opacity: 1;">
         <xhtml:div>
           <xhtml:p
-             data-lines="62,63">Atiende la orientación aportada <xhtml:br />
+             data-lines="65,66">Atiende la orientación aportada <xhtml:br />
+
 en las páginas 13 y 14 de tu <xhtml:br />
 <xhtml:a
    href="https://prepaenlinea.sep.gob.mx/convocatorias-2024/kit-65/guia_de_registro_g65.pdf">Guía de registro de tu generación</xhtml:a>
@@ -3732,9 +3796,9 @@ en las páginas 13 y 14 de tu <xhtml:br />
     <g
        data-depth="3"
        data-path="1.12.30"
-       transform="translate(451,-637.625)"
+       transform="translate(451,-730.125)"
        class="markmap-node"
-       id="g9561">
+       id="g1618">
       <line
          x1="-1"
          x2="224"
@@ -3742,7 +3806,7 @@ en las páginas 13 y 14 de tu <xhtml:br />
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9557" />
+         id="line1614" />
       <circle
          stroke-width="1.5"
          cx="222"
@@ -3750,7 +3814,7 @@ en las páginas 13 y 14 de tu <xhtml:br />
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9559" />
+         id="circle1616" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3760,15 +3824,16 @@ en las páginas 13 y 14 de tu <xhtml:br />
          style="opacity: 1;">
         <xhtml:div><xhtml:strong>¡Está llena de vida.!</xhtml:strong>
 <xhtml:br />
+
 Todos los días hay actividad.</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="3"
        data-path="1.12.26"
-       transform="translate(451,-827.625)"
+       transform="translate(451,-1017.625)"
        class="markmap-node"
-       id="g9567">
+       id="g1624">
       <line
          x1="-1"
          x2="157"
@@ -3776,7 +3841,7 @@ Todos los días hay actividad.</xhtml:div>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9563" />
+         id="line1620" />
       <circle
          stroke-width="1.5"
          cx="155"
@@ -3784,7 +3849,7 @@ Todos los días hay actividad.</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9565" />
+         id="circle1622" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3794,15 +3859,16 @@ Todos los días hay actividad.</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Con diversidad de<xhtml:br />
 
+
 oportunidades para</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="3"
        data-path="1.12.18"
-       transform="translate(451,-915.125)"
+       transform="translate(451,-1105.125)"
        class="markmap-node"
-       id="g9573">
+       id="g1630">
       <line
          x1="-1"
          x2="136"
@@ -3810,7 +3876,7 @@ oportunidades para</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9569" />
+         id="line1626" />
       <circle
          stroke-width="1.5"
          cx="134"
@@ -3818,7 +3884,7 @@ oportunidades para</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9571" />
+         id="circle1628" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3832,9 +3898,9 @@ oportunidades para</xhtml:div>
     <g
        data-depth="3"
        data-path="1.12.13"
-       transform="translate(451,-1055.125)"
+       transform="translate(451,-1245.125)"
        class="markmap-node"
-       id="g9579">
+       id="g1636">
       <line
          x1="-1"
          x2="93"
@@ -3842,7 +3908,7 @@ oportunidades para</xhtml:div>
          y2="40"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9575" />
+         id="line1632" />
       <circle
          stroke-width="1.5"
          cx="91"
@@ -3850,7 +3916,7 @@ oportunidades para</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9577" />
+         id="circle1634" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3860,15 +3926,16 @@ oportunidades para</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>Modalidad<xhtml:br />
 
+
 flexible</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="3"
        data-path="1.2.6"
-       transform="translate(379,-1197.625)"
+       transform="translate(379,-1387.625)"
        class="markmap-node"
-       id="g9585">
+       id="g1642">
       <line
          x1="-1"
          x2="137"
@@ -3876,7 +3943,7 @@ flexible</xhtml:div>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9581" />
+         id="line1638" />
       <circle
          stroke-width="1.5"
          cx="135"
@@ -3884,7 +3951,7 @@ flexible</xhtml:div>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9583" />
+         id="circle1640" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3898,9 +3965,9 @@ flexible</xhtml:div>
     <g
        data-depth="3"
        data-path="1.2.5"
-       transform="translate(379,-1290.125)"
+       transform="translate(379,-1480.125)"
        class="markmap-node"
-       id="g9589">
+       id="g1646">
       <line
          x1="-1"
          x2="273"
@@ -3908,7 +3975,7 @@ flexible</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9587" />
+         id="line1644" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3918,15 +3985,16 @@ flexible</xhtml:div>
          style="opacity: 1;">
         <xhtml:div>El periodo de participación<xhtml:br />
 
+
 del 6 de mayo al 2 de junio de 2024</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="3"
        data-path="1.2.3"
-       transform="translate(379,-1330.125)"
+       transform="translate(379,-1520.125)"
        class="markmap-node"
-       id="g9595">
+       id="g1652">
       <line
          x1="-1"
          x2="226"
@@ -3934,7 +4002,7 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9591" />
+         id="line1648" />
       <circle
          stroke-width="1.5"
          cx="224"
@@ -3942,7 +4010,7 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9593" />
+         id="circle1650" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3956,9 +4024,9 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
     <g
        data-depth="2"
        data-path="1.110"
-       transform="translate(202,1203.875)"
+       transform="translate(202,1393.875)"
        class="markmap-node"
-       id="g9601">
+       id="g1658">
       <line
          x1="-1"
          x2="110"
@@ -3966,7 +4034,7 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          y2="60"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9597" />
+         id="line1654" />
       <circle
          stroke-width="1.5"
          cx="108"
@@ -3974,7 +4042,7 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9599" />
+         id="circle1656" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -3983,17 +4051,20 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          height="60"
          style="opacity: 1;">
         <xhtml:div><xhtml:strong>En tu inicio</xhtml:strong>
+
 , <xhtml:br />
+
  lo básico <xhtml:br />
+
  a saber</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="2"
        data-path="1.55"
-       transform="translate(202,394.625)"
+       transform="translate(202,584.625)"
        class="markmap-node"
-       id="g9607">
+       id="g1664">
       <line
          x1="-1"
          x2="106"
@@ -4001,7 +4072,7 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          y2="60"
          stroke="#2ca02c"
          stroke-width="1.5"
-         id="line9603" />
+         id="line1660" />
       <circle
          stroke-width="1.5"
          cx="104"
@@ -4009,7 +4080,7 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          r="6"
          stroke="#2ca02c"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9605" />
+         id="circle1662" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -4018,16 +4089,18 @@ del 6 de mayo al 2 de junio de 2024</xhtml:div>
          height="60"
          style="opacity: 1;">
         <xhtml:div>Principales <xhtml:br />
+
 aspectos de <xhtml:br />
+
 interés</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="2"
        data-path="1.42"
-       transform="translate(202,-410.125)"
+       transform="translate(202,-220.125)"
        class="markmap-node"
-       id="g9613">
+       id="g1670">
       <line
          x1="-1"
          x2="104"
@@ -4035,7 +4108,7 @@ interés</xhtml:div>
          y2="40"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9609" />
+         id="line1666" />
       <circle
          stroke-width="1.5"
          cx="102"
@@ -4043,7 +4116,7 @@ interés</xhtml:div>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9611" />
+         id="circle1668" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -4052,15 +4125,16 @@ interés</xhtml:div>
          height="40"
          style="opacity: 1;">
         <xhtml:div>El ingreso a <xhtml:br />
+
 &quot;Mi Aula&quot;</xhtml:div>
       </foreignObject>
     </g>
     <g
        data-depth="2"
        data-path="1.12"
-       transform="translate(202,-836.375)"
+       transform="translate(202,-977.625)"
        class="markmap-node"
-       id="g9619">
+       id="g1676">
       <line
          x1="-1"
          x2="171"
@@ -4068,7 +4142,7 @@ interés</xhtml:div>
          y2="20"
          stroke="#9467bd"
          stroke-width="1.5"
-         id="line9615" />
+         id="line1672" />
       <circle
          stroke-width="1.5"
          cx="169"
@@ -4076,7 +4150,7 @@ interés</xhtml:div>
          r="6"
          stroke="#9467bd"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9617" />
+         id="circle1674" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -4092,9 +4166,9 @@ interés</xhtml:div>
     <g
        data-depth="2"
        data-path="1.2"
-       transform="translate(202,-1263.875)"
+       transform="translate(202,-1453.875)"
        class="markmap-node"
-       id="g9625">
+       id="g1682">
       <line
          x1="-1"
          x2="99"
@@ -4102,7 +4176,7 @@ interés</xhtml:div>
          y2="20"
          stroke="#ff7f0e"
          stroke-width="1.5"
-         id="line9621" />
+         id="line1678" />
       <circle
          stroke-width="1.5"
          cx="97"
@@ -4110,7 +4184,7 @@ interés</xhtml:div>
          r="6"
          stroke="#ff7f0e"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9623" />
+         id="circle1680" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -4126,7 +4200,7 @@ interés</xhtml:div>
        data-path="1"
        transform="translate(0,-30)"
        class="markmap-node"
-       id="g9631">
+       id="g1688">
       <line
          x1="-1"
          x2="124"
@@ -4134,7 +4208,7 @@ interés</xhtml:div>
          y2="60"
          stroke="#1f77b4"
          stroke-width="2"
-         id="line9627" />
+         id="line1684" />
       <circle
          stroke-width="1.5"
          cx="122"
@@ -4142,7 +4216,7 @@ interés</xhtml:div>
          r="6"
          stroke="#1f77b4"
          fill="var(--markmap-circle-open-bg)"
-         id="circle9629" />
+         id="circle1686" />
       <foreignObject
          class="markmap-foreign"
          x="8"
@@ -4151,7 +4225,9 @@ interés</xhtml:div>
          height="60"
          style="opacity: 1;">
         <xhtml:div>Módulo <xhtml:br />
+
 Propedéutico<xhtml:br />
+
 Generación 64</xhtml:div>
       </foreignObject>
     </g>
