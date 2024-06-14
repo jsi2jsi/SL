@@ -36,36 +36,30 @@
 <style
      type="text/css"
      id="style182"><![CDATA[
-.giro {
+.aviso {
   
-  animation: 6s giro infinite;
-  backface-visibility: visible; /* Porpiedad que determina si la partte de atras del elemento será o no visible al girarse pro completo */
+  animation: 16s aviso infinite;
+  transform-origin: center top; /*  */
 }
 
-@keyframes giro {
-   
-  40% {
-    
-    transform: perspective(300px) translateZ(120px) rotateY(170deg);
-    
+/*  */
+
+@keyframes aviso {
+/* De a poco el cartel va perdiendo fuera lo que se traduce en menos rotación */
+   10% {
+    transform: rotate(20deg);
   }
   
-  50% {
-    
-    transform: perspective(300px) translateZ(120px) rotateY(190deg);
-    
+   30% {
+    transform: rotate(-15deg);
   }
   
-  80% {
-    
-    transform: perspective(300px) translateZ(0px) rotateY(360deg);
-    
+   50% {
+    transform: rotate(10deg);
   }
   
-  100% {
-    
-    transform: rotateY(360deg);
-    
+   70% {
+    transform: rotate(-5deg);
   }
   
 }
@@ -2157,7 +2151,7 @@
        x="61.630859"
        y="469.58361"
        id="tspan6824">comunicaremos?</tspan></text>
-  <g class="giro"
+  <g class="aviso"
      id="g5251">
     <g
        id="g4946"
