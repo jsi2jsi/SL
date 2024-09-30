@@ -1,0 +1,1630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="150mm"
+   viewBox="0 0 210 150"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="D3_Comunicación_PL.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.69130191"
+     inkscape:cx="373.20886"
+     inkscape:cy="270.5041"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <style
+     type="text/css"
+     id="style182"><![CDATA[
+
+/*slideshow styles*/
+
+.slideshow {
+  width: 625px;
+  margin: 0 auto;
+  overflow: hidden;
+  border: solid 1px white;
+}
+
+.slideshow-container {
+  width: 2500px;
+  font-size: 0;
+  transition: 1s ease;
+  height: 225px;
+}
+
+#g2107-4:hover {
+  animation-play-state: paused;
+}
+
+
+.slide {
+  animation: slide 48s ease infinite;
+}
+
+@keyframes slide { 
+0% { opacity:1;  transform: translateY(0%); }
+6.67% { transform: translateY(0%); }
+13.34% { transform: translateX(100%); }
+20.01% { transform: translateX(100%); }
+26.68% { transform: translateY(-100%) translateX(100%); }
+33.35% { transform: translateY(-100%) translateX(100%); }
+40.02% { transform: translateY(-100%) translateX(0%) ; }
+46.69% { transform: translateY(-100%) translateX(0%);  }
+53.36% { transform: translateY(-200%); }
+60.03% { transform: translateY(-200%); }
+66.7% { transform: translateY(-200%) translateX(100%); }
+73.37% { transform: translateY(-200%) translateX(100%); }
+80.04% { transform: translateY(-300%) translateX(100%); }
+86.71% { transform: translateY(-300%) translateX(100%); }
+93.38% { transform: translateY(-300%) translateX(0%); }
+99.9% { opacity:1; transform: translateY(-300%) translateX(0%); }
+100% {  opacity:0;  transform: translateY(0%); }
+}
+
+
+
+        ]]></style>
+  <defs
+     id="defs2">
+    <rect
+       x="341.38485"
+       y="-109.93749"
+       width="423.83797"
+       height="50.629109"
+       id="rect4117" />
+    <rect
+       x="166.35279"
+       y="2302.9012"
+       width="431.07071"
+       height="65.094569"
+       id="rect1596" />
+    <rect
+       x="-810.06575"
+       y="2305.7943"
+       width="1018.4877"
+       height="745.16666"
+       id="rect674" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-94.617331 : 57.502125 : 1"
+       inkscape:vp_y="-100.64688 : -61.702464 : 0"
+       inkscape:vp_z="-100.27296 : 69.597784 : 1"
+       inkscape:persp3d-origin="-94.928981 : 65.092518 : 1"
+       id="perspective3086" />
+    <rect
+       x="109.93749"
+       y="303.77466"
+       width="126.0148"
+       height="135.07679"
+       id="rect309" />
+    <rect
+       x="63.648023"
+       y="96.918581"
+       width="347.17104"
+       height="150.44078"
+       id="rect303" />
+    <rect
+       x="21.69819"
+       y="34.717104"
+       width="152.15736"
+       height="35.568424"
+       id="rect398" />
+    <rect
+       x="21.698191"
+       y="34.717106"
+       width="148.15786"
+       height="37.539303"
+       id="rect398-6" />
+    <rect
+       x="109.93749"
+       y="303.77466"
+       width="59.834018"
+       height="35.198713"
+       id="rect309-9" />
+    <rect
+       x="109.93749"
+       y="303.77466"
+       width="162.01315"
+       height="115.72368"
+       id="rect309-92" />
+    <rect
+       x="109.93749"
+       y="303.77466"
+       width="122.95641"
+       height="20.251644"
+       id="rect309-9-3" />
+    <rect
+       x="21.698191"
+       y="34.717106"
+       width="200.15136"
+       height="36.061144"
+       id="rect398-60" />
+    <rect
+       x="63.648022"
+       y="96.918579"
+       width="347.17105"
+       height="150.44078"
+       id="rect303-7" />
+    <rect
+       x="63.648022"
+       y="96.918579"
+       width="347.17105"
+       height="150.44078"
+       id="rect303-7-4" />
+    <rect
+       x="63.648022"
+       y="96.918579"
+       width="347.17105"
+       height="150.44078"
+       id="rect303-7-4-9" />
+    <rect
+       x="63.648022"
+       y="96.918579"
+       width="347.17105"
+       height="150.44078"
+       id="rect303-7-4-9-2" />
+    <rect
+       x="21.698191"
+       y="34.717106"
+       width="204.33029"
+       height="35.162111"
+       id="rect398-60-3" />
+    <rect
+       x="63.648022"
+       y="96.918579"
+       width="347.17105"
+       height="150.44078"
+       id="rect303-7-4-7" />
+    <rect
+       x="63.648022"
+       y="96.918579"
+       width="347.17105"
+       height="150.44078"
+       id="rect303-7-4-9-5" />
+    <rect
+       x="21.698191"
+       y="34.717106"
+       width="204.33029"
+       height="35.162109"
+       id="rect398-60-3-5" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     style="display:inline" />
+  <g
+     class="slideshow-container slide"
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g2025"
+       transform="translate(-421.77062,150.03093)">
+      <rect
+         style="display:inline;fill:#d1f2d1;fill-opacity:1;stroke:#f5f4bd;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect893-3"
+         width="209.3544"
+         height="149.26547"
+         x="211.84213"
+         y="0.76545435"
+         rx="2.9207561"
+         ry="2.1592634" />
+      <rect
+         style="fill:#55ff99;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect1648"
+         width="132.808"
+         height="25.643042"
+         x="287.28528"
+         y="123.53258"
+         ry="4.7591648"
+         rx="2.1249278" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.86125462,0,0,0.7767741,274.07177,96.859117)"
+         id="text396-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect398-6);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.892506;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+           x="21.697266"
+           y="46.298997"
+           id="tspan4706">Comunicación al exterior
+</tspan><tspan
+           x="21.697266"
+           y="63.031747"
+           id="tspan4708">de la plataforma</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.55833082,0,0,0.45397935,179.37636,46.264552)"
+         id="text301"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect303);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:1.44996;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"><tspan
+           x="63.648438"
+           y="108.50017"
+           id="tspan4710">                  Exponer 
+</tspan><tspan
+           x="63.648438"
+           y="125.23292"
+           id="tspan4712">           alguna situación 
+</tspan><tspan
+           x="63.648438"
+           y="141.96567"
+           id="tspan4714">     cuando no lo 
+</tspan><tspan
+           x="63.648438"
+           y="158.69841"
+           id="tspan4716"> permite la plataforma</tspan></text>
+      <ellipse
+         style="fill:#79d870;fill-opacity:1;stroke:#f5f4bd;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="path1027"
+         cx="274.86981"
+         cy="29.661728"
+         rx="33.871777"
+         ry="17.414303" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.90866812,0,0,0.74878317,151.12566,-209.87074)"
+         id="text307-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect309-9);display:inline;fill:#1b631b;fill-opacity:0.998437;stroke:#1b631b;stroke-width:0.884995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+           x="109.9375"
+           y="315.35759"
+           id="tspan4718">Sesiones
+</tspan><tspan
+           x="109.9375"
+           y="332.09035"
+           id="tspan4720">síncronas</tspan></text>
+      <rect
+         style="fill:#4ec1cf;fill-opacity:1;stroke:#f5f4bd;stroke-width:0.820227;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect1999"
+         width="59.323452"
+         height="24.15938"
+         x="368.2438"
+         y="120.31371"
+         rx="2.9207559"
+         ry="2.7260051"
+         transform="matrix(1,0,-0.61039384,0.79209808,0,0)" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.42480011,0,0,0.47551561,245.70125,-44.758155)"
+         id="text307-3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect309-9-3);display:inline;fill:#7a0967;fill-opacity:1;stroke:#7a0967;stroke-width:1.62422;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+           x="109.9375"
+           y="315.35759"
+           id="tspan4722">Correo electrónico</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.22235px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         x="331.45703"
+         y="17.087452"
+         id="text614"
+         transform="scale(0.96845639,1.032571)"><tspan
+           sodipodi:role="line"
+           id="tspan2027"
+           x="331.45703"
+           y="17.087452"
+           style="stroke-width:0.730001">Para  participar, </tspan><tspan
+           sodipodi:role="line"
+           id="tspan2029"
+           x="331.45703"
+           y="28.615389"
+           style="stroke-width:0.730001">solucionar  desafios, </tspan><tspan
+           sodipodi:role="line"
+           id="tspan2031"
+           x="331.45703"
+           y="40.143326"
+           style="stroke-width:0.730001">exponer dudas, </tspan><tspan
+           sodipodi:role="line"
+           id="tspan2033"
+           x="331.45703"
+           y="51.671265"
+           style="stroke-width:0.730001">colaborar</tspan></text>
+      <ellipse
+         style="fill:#ff80b2;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="path2972"
+         cx="323.9826"
+         cy="80.18235"
+         rx="6.3150773"
+         ry="6.6978092" />
+      <rect
+         style="fill:#d42aff;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect3026"
+         width="15.309278"
+         height="17.605669"
+         x="361.76187"
+         y="-209.77853"
+         rx="2.1249278"
+         ry="4.7591648"
+         transform="rotate(43.418717)" />
+    </g>
+    <g
+       id="g937">
+      <rect
+         style="fill:#d7f4f2;stroke:#f5f4bd;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect893"
+         width="209.3544"
+         height="149.26547"
+         x="-209.35439"
+         y="-2.6631243e-08"
+         rx="2.9207561"
+         ry="2.1592634" />
+      <rect
+         style="display:inline;fill:#aaccff;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect1648-1"
+         width="132.808"
+         height="25.643042"
+         x="-204.95296"
+         y="5.1668801"
+         ry="4.7591648"
+         rx="2.1249278" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.86125462,0,0,0.7767741,-218.53767,-22.494344)"
+         id="text396"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect398);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.892506;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+           x="21.697266"
+           y="46.298997"
+           id="tspan4724">Comunicación al interior
+</tspan><tspan
+           x="21.697266"
+           y="63.031747"
+           id="tspan4726">de la plataforma</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.56349226,0,0,0.53395891,-269.5299,-116.31895)"
+         id="text307"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect309);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:1.33084;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"><tspan
+           x="109.9375"
+           y="315.35759"
+           id="tspan4728">Para comunicarte con 
+</tspan><tspan
+           x="109.9375"
+           y="332.09035"
+           id="tspan4730">- Compañeros,
+</tspan><tspan
+           x="109.9375"
+           y="348.82311"
+           id="tspan4732">- Asesor virtual
+</tspan><tspan
+           x="109.9375"
+           y="365.55586"
+           id="tspan4734">- Tutor
+</tspan><tspan
+           x="109.9375"
+           y="382.28862"
+           id="tspan4736">- SAME
+</tspan><tspan
+           x="109.9375"
+           y="399.02138"
+           id="tspan4738">- ADC
+</tspan><tspan
+           x="109.9375"
+           y="415.75414"
+           id="tspan4740">- Otras figuras
+</tspan><tspan
+           x="109.9375"
+           y="432.48689"
+           id="tspan4742">      educativas</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.84438602,-0.00703965,0.00700385,0.81972604,-164.98762,-21.169215)"
+         id="text301-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect303-7);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.877408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"><tspan
+           x="63.648438"
+           y="108.50017"
+           id="tspan4744">Foros
+</tspan><tspan
+           x="63.648438"
+           y="125.23292"
+           id="tspan4746">Sistema de mensajes</tspan></text>
+      <g
+         sodipodi:type="inkscape:box3d"
+         id="g3088"
+         style="fill:#d42aff;fill-opacity:1;stroke:none;stroke-width:2.75906;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         inkscape:perspectiveID="#perspective3086"
+         inkscape:corner0="-1.435837 : 0.064380171 : 0 : 1"
+         inkscape:corner7="-1.6094909 : -0.01441269 : 0.14971541 : 1">
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path3094"
+           style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:1.04218;stroke-linejoin:round"
+           inkscape:box3dsidetype="3"
+           d="m -79.035101,100.79909 -4.439632,-2.36515 -13.011278,7.97668 -0.744552,5.54336 z"
+           points="-83.474733,98.43394 -96.486011,106.41062 -97.230563,111.95398 -79.035101,100.79909 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path3090"
+           style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:1.04218;stroke-linejoin:round"
+           inkscape:box3dsidetype="6"
+           d="m -79.035101,100.79909 -18.195462,11.15489 1.59196,16.50972 27.716383,-16.99178 z"
+           points="-97.230563,111.95398 -95.638603,128.4637 -67.92222,111.47192 -79.035101,100.79909 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path3092"
+           style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:1.04218;stroke-linejoin:round"
+           inkscape:box3dsidetype="5"
+           d="m -79.035101,100.79909 -4.439632,-2.36515 5.469961,5.87162 10.082552,7.16636 z"
+           points="-83.474733,98.43394 -78.004772,104.30556 -67.92222,111.47192 -79.035101,100.79909 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path3100"
+           style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:0.620232;stroke-linejoin:round"
+           inkscape:box3dsidetype="11"
+           d="m -67.92222,111.47192 -10.082552,-7.16636 -17.248105,10.5741 -0.385726,13.58404 z"
+           points="-78.004772,104.30556 -95.252877,114.87966 -95.638603,128.4637 -67.92222,111.47192 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path3096"
+           style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-width:1.04218;stroke-linejoin:round"
+           inkscape:box3dsidetype="14"
+           d="m -83.474733,98.43394 -13.011278,7.97668 1.233134,8.46904 17.248105,-10.5741 z"
+           points="-96.486011,106.41062 -95.252877,114.87966 -78.004772,104.30556 -83.474733,98.43394 " />
+        <path
+           sodipodi:type="inkscape:box3dside"
+           id="path3098"
+           style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1.04218;stroke-linejoin:round"
+           inkscape:box3dsidetype="13"
+           d="m -97.230563,111.95398 0.744552,-5.54336 1.233134,8.46904 -0.385726,13.58404 z"
+           points="-96.486011,106.41062 -95.252877,114.87966 -95.638603,128.4637 -97.230563,111.95398 " />
+      </g>
+    </g>
+    <g
+       id="g10901">
+      <g
+         id="g6883">
+        <rect
+           style="fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="rect3679"
+           width="208.97163"
+           height="148.88272"
+           x="1.1481959"
+           y="150.41367"
+           rx="2.1249278"
+           ry="4.7591648" />
+        <rect
+           style="fill:#f4eed7;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="rect4147"
+           width="175.67398"
+           height="16.84021"
+           x="20.813959"
+           y="152.68683"
+           rx="5.217155"
+           ry="3.6901913" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.82427673,0,0,0.42571441,9.9901685,139.07481)"
+           id="text396-41"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect398-60);display:inline;fill:#121577;fill-opacity:0.998437;stroke:#121577;stroke-width:1.23233;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+             x="21.697266"
+             y="46.298997"
+             id="tspan4748"> Al participar, no olvides aplicar las
+</tspan><tspan
+             x="21.697266"
+             y="63.031747"
+             id="tspan4750">siguientes pautas de comunicación:</tspan></text>
+        <rect
+           style="fill:#d7f4e3;fill-opacity:0.998437;stroke:#121577;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+           id="rect6329"
+           width="101.04124"
+           height="121.32603"
+           x="3.8838921"
+           y="173.37758"
+           rx="2.1828053"
+           ry="4.7591648" />
+        <g
+           id="g5924"
+           transform="matrix(0.18396261,0,0,0.28782225,-7.4822019,111.08035)"
+           style="stroke-width:1.14984">
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(75.0022,242)"
+             id="text5835"
+             style="stroke-width:1.29338">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,242)"
+             id="text5837"
+             style="stroke-width:1.29338">Saludar y presentarse ante</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,266)"
+             id="text5839"
+             style="stroke-width:1.29338">compañeros, al participar en foros</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(75.0022,304)"
+             id="text5841"
+             style="stroke-width:1.29338">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,304)"
+             id="text5843"
+             style="stroke-width:1.29338">Evitar comentarios y groserías que</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,328)"
+             id="text5845"
+             style="stroke-width:1.29338">puedan ofender a tus compañeros</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(75.0022,366)"
+             id="text5847"
+             style="stroke-width:1.29338">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,366)"
+             id="text5849"
+             style="stroke-width:1.29338">Respetar la postura de tus compañeros,</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,390)"
+             id="text5851"
+             style="stroke-width:1.29338">aunque no estés de acuerdo.</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(75.0022,428)"
+             id="text5853"
+             style="stroke-width:1.29338">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,428)"
+             id="text5855"
+             style="stroke-width:1.29338">Escribir correctamente el nombre de la</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,452)"
+             id="text5857"
+             style="stroke-width:1.29338">persona a quien te diriges</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(75.0022,490)"
+             id="text5859"
+             style="stroke-width:1.29338">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,490)"
+             id="text5861"
+             style="stroke-width:1.29338">Se claro y cortes.</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(75.0022,527)"
+             id="text5863"
+             style="stroke-width:1.29338">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,527)"
+             id="text5865"
+             style="stroke-width:1.29338">Respeta normas de ortografía y</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,552)"
+             id="text5867"
+             style="stroke-width:1.29338">gramática</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(75.0022,589)"
+             id="text5869"
+             style="stroke-width:1.29338">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,589)"
+             id="text5871"
+             style="stroke-width:1.29338">Respetar la privacidad de información</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="25px"
+             transform="translate(111.002,614)"
+             id="text5873"
+             style="stroke-width:1.29338">que se comparte con los demás</text>
+        </g>
+        <rect
+           style="display:inline;fill:#d7f4e3;fill-opacity:0.998437;stroke:#121577;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+           id="rect6329-9"
+           width="100.27577"
+           height="121.32603"
+           x="106.20811"
+           y="173.95168"
+           rx="2.1662686"
+           ry="4.7591648" />
+        <g
+           id="g6016"
+           transform="matrix(0.18370612,0,0,0.24899016,139.24601,68.774053)"
+           style="stroke-width:1.23711">
+          <g
+             transform="translate(-808.65631,214.60515)"
+             id="g5966"
+             style="stroke-width:1.23711">
+            <text
+               fill="#2e7a40"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(643.719,240)"
+               id="text5926"
+               style="stroke-width:1.40914">•</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,240)"
+               id="text5928"
+               style="stroke-width:1.40914">NO escribas con solo MAYÚSCULAS,</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,269)"
+               id="text5930"
+               style="stroke-width:1.40914">en comunicación virtual significa</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,297)"
+               id="text5932"
+               style="stroke-width:1.40914">gritar.</text>
+            <text
+               fill="#2e7a40"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(643.719,340)"
+               id="text5934"
+               style="stroke-width:1.40914">•</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,340)"
+               id="text5936"
+               style="stroke-width:1.40914">No incluir imágenes en</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,368)"
+               id="text5938"
+               style="stroke-width:1.40914">participaciones, ocupan un gran</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,397)"
+               id="text5940"
+               style="stroke-width:1.40914">volumen</text>
+            <text
+               fill="#2e7a40"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(643.719,439)"
+               id="text5942"
+               style="stroke-width:1.40914">•</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,439)"
+               id="text5944"
+               style="stroke-width:1.40914">Evitar abreviaturas y modismos, esto</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,468)"
+               id="text5946"
+               style="stroke-width:1.40914">desarrolla malos hábitos de escritura</text>
+            <text
+               fill="#2e7a40"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(643.719,510)"
+               id="text5948"
+               style="stroke-width:1.40914">•</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,510)"
+               id="text5950"
+               style="stroke-width:1.40914">Ser breves y concisos.</text>
+            <text
+               fill="#2e7a40"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(643.719,552)"
+               id="text5952"
+               style="stroke-width:1.40914">•</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,552)"
+               id="text5954"
+               style="stroke-width:1.40914">No presentar información ajena</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,581)"
+               id="text5956"
+               style="stroke-width:1.40914">como propia.</text>
+            <text
+               fill="#2e7a40"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(643.719,623)"
+               id="text5958"
+               style="stroke-width:1.40914">•</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,623)"
+               id="text5960"
+               style="stroke-width:1.40914">Indicar con exactitud de donde</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,652)"
+               id="text5962"
+               style="stroke-width:1.40914">obtuviste tus comentarios, datos o</text>
+            <text
+               fill="#721411"
+               font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+               font-weight="400"
+               font-size="27px"
+               transform="translate(679.719,681)"
+               id="text5964"
+               style="stroke-width:1.40914">información.</text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g10850">
+      <rect
+         style="fill:#ecffd5;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect3679-1"
+         width="208.97163"
+         height="148.88272"
+         x="0.76547164"
+         y="300.25323"
+         rx="2.1249278"
+         ry="4.7591648" />
+      <rect
+         style="fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect4147-2"
+         width="175.67398"
+         height="16.84021"
+         x="20.431234"
+         y="302.5264"
+         rx="5.217155"
+         ry="3.6901913" />
+      <ellipse
+         style="fill:#d5ffdc;fill-opacity:0.998437;stroke:#d5ffdc;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+         id="path10803"
+         cx="123.04832"
+         cy="307.1424"
+         rx="32.340847"
+         ry="7.0805411" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.82427673,0,0,0.42571441,5.3741107,289.97271)"
+         id="text396-41-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect398-60-3);display:inline;fill:#201277;fill-opacity:0.998437;stroke:#1e1277;stroke-width:1.23233;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+           x="21.697266"
+           y="46.298997"
+           id="tspan4752"> Ah. Recuerda. Al preguntar ejercita
+</tspan><tspan
+           x="21.697266"
+           y="63.031747"
+           id="tspan4754"> las siguientes pautas de redacción.</tspan></text>
+      <rect
+         style="fill:#f4ecd7;fill-opacity:1;stroke:#121577;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+         id="rect6329-0"
+         width="101.04124"
+         height="121.32603"
+         x="3.5011678"
+         y="323.21713"
+         rx="2.1828053"
+         ry="4.7591648" />
+      <rect
+         style="display:inline;fill:#f4ecd7;fill-opacity:0.998437;stroke:#121577;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+         id="rect6329-9-5"
+         width="100.27577"
+         height="121.32603"
+         x="105.82539"
+         y="323.79123"
+         rx="2.1662686"
+         ry="4.7591648" />
+      <g
+         id="g8793"
+         transform="matrix(0.72767781,0,0,1,106.84709,-130.5116)"
+         style="fill:#008000;stroke-width:1.17228">
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-164.79456,399.68081)"
+           id="g8747"
+           style="fill:#008000;stroke-width:1.17228">
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="700"
+             font-size="29px"
+             transform="translate(97.1748,245)"
+             id="text8711"
+             style="fill:#008000;stroke-width:1.37423">Al redactar:</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(97.1748,286)"
+             id="text8713"
+             style="fill:#008000;stroke-width:1.37423">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,286)"
+             id="text8715"
+             style="fill:#008000;stroke-width:1.37423">Tono cortés</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(97.1748,328)"
+             id="text8717"
+             style="fill:#008000;stroke-width:1.37423">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,328)"
+             id="text8719"
+             style="fill:#008000;stroke-width:1.37423">Cuidar la ortografía, la</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,356)"
+             id="text8721"
+             style="fill:#008000;stroke-width:1.37423">gramática y la puntuación. Frase</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,384)"
+             id="text8723"
+             style="fill:#008000;stroke-width:1.37423">entre signos de interrogación</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,412)"
+             id="text8725"
+             style="fill:#008000;stroke-width:1.37423">(¿?)</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(97.1748,454)"
+             id="text8727"
+             style="fill:#008000;stroke-width:1.37423">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,454)"
+             id="text8729"
+             style="fill:#008000;stroke-width:1.37423">Aporta información suficiente</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,482)"
+             id="text8731"
+             style="fill:#008000;stroke-width:1.37423">(detalles).</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(97.1748,523)"
+             id="text8733"
+             style="fill:#008000;stroke-width:1.37423">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,523)"
+             id="text8735"
+             style="fill:#008000;stroke-width:1.37423">Verifica que presenta una idea</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,551)"
+             id="text8737"
+             style="fill:#008000;stroke-width:1.37423">clara y completa, y sin errores.</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,580)"
+             id="text8739"
+             style="fill:#008000;stroke-width:1.37423">Leer antes de enviarla.</text>
+          <text
+             fill="#721411"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(97.1748,621)"
+             id="text8741"
+             style="fill:#008000;stroke-width:1.37423">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,621)"
+             id="text8743"
+             style="fill:#008000;stroke-width:1.37423">Incluye evidencias (capturas de</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="29px"
+             transform="translate(121.175,649)"
+             id="text8745"
+             style="fill:#008000;stroke-width:1.37423">pantalla)</text>
+        </g>
+      </g>
+      <g
+         id="g9599"
+         transform="matrix(0.72311738,0,0,1.0133804,193.79401,-149.04531)"
+         style="fill:#008000;stroke-width:1.16818">
+        <g
+           transform="matrix(0.26458333,0,0,0.26458333,-288.43413,424.83486)"
+           id="g9555"
+           style="fill:#008000;stroke-width:1.16818">
+          <text
+             fill="#fe801a"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(647.102,194)"
+             id="text9521"
+             style="fill:#008000;stroke-width:1.38507">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,194)"
+             id="text9523"
+             style="fill:#008000;stroke-width:1.38507">Evita solo</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(823.435,194)"
+             id="text9525"
+             style="fill:#008000;stroke-width:1.38507">frases como “Ayuda</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,224)"
+             id="text9527"
+             style="fill:#008000;stroke-width:1.38507">por favor” o “Tengo una</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,255)"
+             id="text9529"
+             style="fill:#008000;stroke-width:1.38507">duda” (en sí mismas no</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,286)"
+             id="text9531"
+             style="fill:#008000;stroke-width:1.38507">expresan una idea precisa)</text>
+          <text
+             fill="#fe801a"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(647.102,330)"
+             id="text9533"
+             style="fill:#008000;stroke-width:1.38507">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,330)"
+             id="text9535"
+             style="fill:#008000;stroke-width:1.38507">Evita preguntas que puedan</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,361)"
+             id="text9537"
+             style="fill:#008000;stroke-width:1.38507">ser ofensivas o que ataquen a</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,391)"
+             id="text9539"
+             style="fill:#008000;stroke-width:1.38507">otros miembros de la</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,422)"
+             id="text9541"
+             style="fill:#008000;stroke-width:1.38507">comunidad.</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="700"
+             font-size="32px"
+             transform="translate(647.102,466)"
+             id="text9543"
+             style="fill:#008000;stroke-width:1.38507">Al recibir respuesta:</text>
+          <text
+             fill="#fe801a"
+             font-family="Arial, Arial_MSFontService, sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(647.102,510)"
+             id="text9545"
+             style="fill:#008000;stroke-width:1.38507">•</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,510)"
+             id="text9547"
+             style="fill:#008000;stroke-width:1.38507">Valórala y agradece el</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,541)"
+             id="text9549"
+             style="fill:#008000;stroke-width:1.38507">apoyo. De esta manera</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,572)"
+             id="text9551"
+             style="fill:#008000;stroke-width:1.38507">generas un ambiente</text>
+          <text
+             fill="#721411"
+             font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+             font-weight="400"
+             font-size="32px"
+             transform="translate(671.102,602)"
+             id="text9553"
+             style="fill:#008000;stroke-width:1.38507">colaborativo.</text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g512"
+       transform="translate(210.50258,0.38273196)">
+      <g
+         id="g2805-1"
+         style="display:inline"
+         transform="translate(-210.73882,449.47377)">
+        <path
+           style="fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           d="M 210.50253,0.04492811 0.38269134,150.45857 210.88526,151.22403 Z"
+           id="path386-0-4"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.8587456,-0.72617927,0.59838018,0.98231067,-46.408257,70.854277)"
+           id="text301-8-6-8-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect303-7-4-9-5);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.645717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"><tspan
+             x="63.648438"
+             y="108.50017"
+             id="tspan4756">en Prepa en Línea-SEP</tspan></text>
+        <rect
+           style="fill:#5555ff;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="rect2632-1"
+           width="40.95232"
+           height="42.100513"
+           x="191.29251"
+           y="11.050037"
+           rx="2.1249278"
+           ry="4.7591648"
+           transform="rotate(26.007779)" />
+        <path
+           sodipodi:type="spiral"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+           id="path2793-8"
+           sodipodi:cx="-32.532219"
+           sodipodi:cy="173.37758"
+           sodipodi:expansion="1"
+           sodipodi:revolution="3"
+           sodipodi:radius="14.573998"
+           sodipodi:argument="-18.610947"
+           sodipodi:t0="0"
+           d="m -32.532219,173.37758 c 0.710014,0.1727 0.117492,1.04229 -0.287049,1.18009 -1.096279,0.37342 -2.004497,-0.76909 -2.073131,-1.75419 -0.12277,-1.76211 1.581332,-3.01457 3.221327,-2.96617 2.406758,0.071 4.044401,2.40091 3.859214,4.68846 -0.246826,3.04895 -3.222614,5.08204 -6.155605,4.75226 -3.69087,-0.41499 -6.123576,-4.04521 -5.645297,-7.62274 0.57926,-4.33288 4.868285,-7.16737 9.089883,-6.53834 4.975007,0.74128 8.212552,5.69165 7.43138,10.55702 -0.901895,5.61726 -6.515225,9.25868 -12.024162,8.32442 -6.259605,-1.06156 -10.305464,-7.33893 -9.217462,-13.4913 1.220574,-6.90203 8.162743,-11.35273 14.95844,-10.1105 7.544512,1.3791 12.400344,8.98663 11.003544,16.42558"
+           transform="translate(224.66366,-97.596649)" />
+      </g>
+      <g
+         id="g2799-2"
+         style="display:inline"
+         transform="translate(-210.54751,449.51869)">
+        <path
+           style="display:inline;fill:#fff6d5;fill-opacity:0.998437;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           d="M 0.76546471,150.41366 210.50258,4.236179e-8 -0.38273519,-3.8894322e-8 Z"
+           id="path386-5"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.93956624,-0.74736586,0.65469659,1.01097,-86.722474,35.752316)"
+           id="text301-8-6-80"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect303-7-4-7);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.608507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"><tspan
+             x="63.648438"
+             y="108.50017"
+             id="tspan4758">La comunicación</tspan></text>
+        <ellipse
+           style="fill:#87decd;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="path2370-3"
+           cx="59.323452"
+           cy="20.47616"
+           rx="22.581186"
+           ry="17.797035" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff80b2;fill-opacity:1;stroke:none;stroke-width:0.914058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="path2738-9"
+           inkscape:flatsided="false"
+           sodipodi:sides="6"
+           sodipodi:cx="4.9755154"
+           sodipodi:cy="106.78222"
+           sodipodi:r1="21.650587"
+           sodipodi:r2="15.425519"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.3089969"
+           inkscape:rounded="0.02"
+           inkscape:randomized="0"
+           d="m 20.284792,122.0915 c -0.160149,0.16015 -11.0980901,-0.46799 -11.316858,-0.40937 -0.2187679,0.0586 -9.37723491,6.07157 -9.59600284,6.01295 -0.21876791,-0.0586 -5.14375526,-9.84522 -5.30390446,-10.00537 -0.1601492,-0.16015 -9.9467537,-5.08514 -10.0053727,-5.30391 -0.05862,-0.21876 5.9543354,-9.37723 6.012954,-9.596 0.058619,-0.21877 -0.569519,-11.156709 -0.40937,-11.316858 0.16015,-0.160149 11.09809078,0.467989 11.31685869,0.40937 0.21876791,-0.05862 9.37723531,-6.071573 9.59600331,-6.012954 0.218767,0.05862 5.143755,9.845222 5.303904,10.005371 0.160149,0.16015 9.946754,5.085141 10.005373,5.303901 0.05862,0.21877 -5.954336,9.37724 -6.012954,9.59601 -0.05862,0.21876 0.569519,11.15671 0.409369,11.31686 z"
+           transform="matrix(0.78953966,0,0,0.80784056,14.251401,3.870371)" />
+      </g>
+    </g>
+    <g
+       id="g2388"
+       transform="translate(-209.73711,0.38273136)">
+      <rect
+         style="fill:#ffd5fd;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect3679-1-3"
+         width="208.97163"
+         height="148.88272"
+         x="7.457249e-06"
+         y="450.56235"
+         rx="2.1249278"
+         ry="4.7591648" />
+      <rect
+         style="fill:#5879ff;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect4147-2-8"
+         width="175.67398"
+         height="13.395622"
+         x="19.66577"
+         y="452.83551"
+         rx="5.217155"
+         ry="2.9353795" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.82427673,0,0,0.75012137,58.956585,428.27095)"
+         id="text396-41-7-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect398-60-3-5);display:inline;fill:#edf5be;fill-opacity:0.998437;stroke:#f5f4bd;stroke-width:0.928369;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+           x="21.697266"
+           y="46.298997"
+           id="tspan4760">Referencias</tspan></text>
+      <rect
+         style="fill:#d7f4f2;fill-opacity:1;stroke:#121577;stroke-width:0.73;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+         id="rect6329-0-6"
+         width="203.6134"
+         height="121.32603"
+         x="2.7357037"
+         y="473.52625"
+         rx="4.3986835"
+         ry="4.7591648" />
+      <text
+         fill="#721411"
+         font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="6.54531px"
+         transform="matrix(0.85304034,0,0,1.1722775,0,14.81667)"
+         id="text8743-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.54531px;font-family:'Century Gothic', 'Century Gothic_MSFontService', sans-serif;-inkscape-font-specification:'Century Gothic, Century Gothic_MSFontService, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:213.114;display:inline;fill:#008000;stroke-width:0.310164"
+         x="13.373258"
+         y="422.57358"
+         xml:space="preserve"><tspan
+           x="13.373258"
+           y="422.57358"
+           id="tspan4762">Prepa en Línea-SEP. (s.f.). Normas de comunicación vitual. [PDF]. </tspan><tspan
+           x="13.373258"
+           y="430.75522"
+           id="tspan4764">Módulo M00. Propedéutico. Plataforma de aprendizaje.</tspan></text>
+      <text
+         fill="#721411"
+         font-family="'Century Gothic', 'Century Gothic_MSFontService', sans-serif"
+         font-weight="400"
+         font-size="6.54531px"
+         transform="matrix(0.85304034,0,0,1.1722775,-0.15970046,51.864356)"
+         id="text8743-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.54531px;font-family:'Century Gothic', 'Century Gothic_MSFontService', sans-serif;-inkscape-font-specification:'Century Gothic, Century Gothic_MSFontService, sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:213.114;display:inline;fill:#008000;stroke-width:0.310164"
+         x="13.373258"
+         y="422.57358"
+         xml:space="preserve"><tspan
+           x="13.373258"
+           y="422.57358"
+           id="tspan4766">Prepa en Línea-SEP. (s.f.). Redacción de preguntas eficaces. [PDF]. </tspan><tspan
+           x="13.373258"
+           y="430.75522"
+           id="tspan4768">Módulo M00. Propedéutico. Plataforma de aprendizaje.</tspan></text>
+    </g>
+    <g
+       id="g3435"
+       transform="translate(-3.0552832e-8,-150.5601)">
+      <rect
+         style="fill:#ddafe9;stroke:#f5f4bd;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect566"
+         width="209.73712"
+         height="150.41367"
+         x="-210.26627"
+         y="450.09277"
+         rx="2.9207559"
+         ry="2.175873" />
+      <rect
+         style="fill:#f1ee9b;fill-opacity:1;stroke:#eae76b;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+         id="rect1652"
+         width="200.16881"
+         height="138.16623"
+         x="-205.14432"
+         y="459.27835"
+         rx="2.1530142"
+         ry="2.3588293" />
+      <rect
+         style="fill:#8bd6ee;fill-opacity:1;stroke:#c9431e;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"
+         id="rect1334"
+         width="116.35052"
+         height="17.605671"
+         x="-121.70876"
+         y="452.38919"
+         rx="5.0737696"
+         ry="1.8884935" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-161.51289,-156.15463)"
+         id="text1594"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7382px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1596);display:inline;fill:#df2046;fill-opacity:1;stroke:#df7120;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"><tspan
+           x="166.35352"
+           y="2325.4091"
+           id="tspan4770">Ejemplo de un mensaje aplicando 
+</tspan><tspan
+           x="166.35352"
+           y="2356.3319"
+           id="tspan4772">normas de comunicación virtual</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.19124182,0,0,0.18240881,-47.164072,40.899529)"
+         id="text672"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7382px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect674);display:inline;fill:#c9431e;fill-opacity:1;stroke:none;stroke-width:3.9085;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-opacity:1"><tspan
+           x="-810.06641"
+           y="2328.3036"
+           id="tspan4774">Hola Karla, 
+</tspan><tspan
+           x="-810.06641"
+           y="2359.2264"
+           id="tspan4776">
+</tspan><tspan
+           x="-810.06641"
+           y="2390.1493"
+           id="tspan4778">Una felicitación por tu deseo para participar en el próximo Módulo. 
+</tspan><tspan
+           x="-810.06641"
+           y="2421.0722"
+           id="tspan4780">
+</tspan><tspan
+           x="-810.06641"
+           y="2451.995"
+           id="tspan4782">Te comparto una de mis experiencias dentro del Módulo Propedéutico. Conforme </tspan><tspan
+           x="-810.06641"
+           y="2482.9179"
+           id="tspan4784">navegues en cada espacio de la plataforma, recomiendo que elabores tus apuntes, </tspan><tspan
+           x="-810.06641"
+           y="2513.8407"
+           id="tspan4786">te servirán de mucho para aprender y aplicar esos conocimientos. 
+</tspan><tspan
+           x="-810.06641"
+           y="2544.7636"
+           id="tspan4788">
+</tspan><tspan
+           x="-810.06641"
+           y="2575.6864"
+           id="tspan4790">Por ejemplo, te serán de utilidad el identificar el nombre y los correos de los </tspan><tspan
+           x="-810.06641"
+           y="2606.6093"
+           id="tspan4792">diversos agentes educativos presentes dentro de la plataforma, ¿Cómo sabes que </tspan><tspan
+           x="-810.06641"
+           y="2637.5321"
+           id="tspan4794">es un agente educativo?, ¡fácil, la terminación del correo termina en </tspan><tspan
+           x="-810.06641"
+           y="2668.455"
+           id="tspan4796">“@prepaenlinea-sep.edu.mx”!. 
+</tspan><tspan
+           x="-810.06641"
+           y="2699.3778"
+           id="tspan4798">
+</tspan><tspan
+           x="-810.06641"
+           y="2730.3007"
+           id="tspan4800">Dentro del Módulo Propedéutico se localizan 5 agentes educativos, los estudiantes </tspan><tspan
+           x="-810.06641"
+           y="2761.2235"
+           id="tspan4802">y ... (no olvides indagar y apuntar esos datos)
+</tspan><tspan
+           x="-810.06641"
+           y="2792.1464"
+           id="tspan4804">
+</tspan><tspan
+           x="-810.06641"
+           y="2823.0692"
+           id="tspan4806">Recuerda, al enviar correos electrónicos escribe correctamente la dirección de e-</tspan><tspan
+           x="-810.06641"
+           y="2853.9921"
+           id="tspan4808">mail de quien requieres enviar mensaje. ¡Ojo!.
+</tspan><tspan
+           x="-810.06641"
+           y="2884.9149"
+           id="tspan4810">
+</tspan><tspan
+           x="-810.06641"
+           y="2915.8378"
+           id="tspan4812">Los mejores deseos.
+</tspan><tspan
+           x="-810.06641"
+           y="2946.7606"
+           id="tspan4814">
+</tspan><tspan
+           x="-810.06641"
+           y="2977.6835"
+           id="tspan4816">Roberto Lira Campos.
+</tspan><tspan
+           x="-810.06641"
+           y="3008.6063"
+           id="tspan4818">Estudiante TR2056
+</tspan><tspan
+           x="-810.06641"
+           y="3039.5292"
+           id="tspan4820">Grupo M0C3G02-96</tspan></text>
+    </g>
+    <g
+       id="g4481">
+      <rect
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#f5f4bd;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+         id="rect893-6"
+         width="209.3544"
+         height="149.26547"
+         x="0.95681632"
+         y="0.7654587"
+         rx="2.9207561"
+         ry="2.1592634" />
+      <g
+         id="g2799">
+        <path
+           style="display:inline;fill:#fff6d5;fill-opacity:0.998437;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           d="M 0.76546471,150.41366 210.50258,4.236179e-8 -0.38273519,-3.8894322e-8 Z"
+           id="path386"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.93956624,-0.74736586,0.65469659,1.01097,-86.722474,35.752316)"
+           id="text301-8-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect303-7-4);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.608507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"><tspan
+             x="63.648438"
+             y="108.50017"
+             id="tspan4822">La comunicación</tspan></text>
+        <ellipse
+           style="fill:#87decd;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="path2370"
+           cx="59.323452"
+           cy="20.47616"
+           rx="22.581186"
+           ry="17.797035" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ff80b2;fill-opacity:1;stroke:none;stroke-width:0.914058;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="path2738"
+           inkscape:flatsided="false"
+           sodipodi:sides="6"
+           sodipodi:cx="4.9755154"
+           sodipodi:cy="106.78222"
+           sodipodi:r1="21.650587"
+           sodipodi:r2="15.425519"
+           sodipodi:arg1="0.78539816"
+           sodipodi:arg2="1.3089969"
+           inkscape:rounded="0.02"
+           inkscape:randomized="0"
+           d="m 20.284792,122.0915 c -0.160149,0.16015 -11.0980901,-0.46799 -11.316858,-0.40937 -0.2187679,0.0586 -9.37723491,6.07157 -9.59600284,6.01295 -0.21876791,-0.0586 -5.14375526,-9.84522 -5.30390446,-10.00537 -0.1601492,-0.16015 -9.9467537,-5.08514 -10.0053727,-5.30391 -0.05862,-0.21876 5.9543354,-9.37723 6.012954,-9.596 0.058619,-0.21877 -0.569519,-11.156709 -0.40937,-11.316858 0.16015,-0.160149 11.09809078,0.467989 11.31685869,0.40937 0.21876791,-0.05862 9.37723531,-6.071573 9.59600331,-6.012954 0.218767,0.05862 5.143755,9.845222 5.303904,10.005371 0.160149,0.16015 9.946754,5.085141 10.005373,5.303901 0.05862,0.21877 -5.954336,9.37724 -6.012954,9.59601 -0.05862,0.21876 0.569519,11.15671 0.409369,11.31686 z"
+           transform="matrix(0.78953966,0,0,0.80784056,14.251401,3.870371)" />
+      </g>
+      <g
+         id="g2805">
+        <path
+           style="fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           d="M 210.50253,0.04492811 0.38269134,150.45857 210.88526,151.22403 Z"
+           id="path386-0"
+           sodipodi:nodetypes="cccc" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.8587456,-0.72617927,0.59838018,0.98231067,-46.408257,70.854277)"
+           id="text301-8-6-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3862px;font-family:'High Tower Text';-inkscape-font-specification:'High Tower Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect303-7-4-9);display:inline;fill:#774a12;fill-opacity:0.998437;stroke:#7a4709;stroke-width:0.645717;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"><tspan
+             x="63.648438"
+             y="108.50017"
+             id="tspan4824">en Prepa en Línea-SEP</tspan></text>
+        <rect
+           style="fill:#5555ff;fill-opacity:1;stroke:none;stroke-width:0.730001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7"
+           id="rect2632"
+           width="40.95232"
+           height="42.100513"
+           x="191.29251"
+           y="11.050037"
+           rx="2.1249278"
+           ry="4.7591648"
+           transform="rotate(26.007779)" />
+        <path
+           sodipodi:type="spiral"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+           id="path2793"
+           sodipodi:cx="-32.532219"
+           sodipodi:cy="173.37758"
+           sodipodi:expansion="1"
+           sodipodi:revolution="3"
+           sodipodi:radius="14.573998"
+           sodipodi:argument="-18.610947"
+           sodipodi:t0="0"
+           d="m -32.532219,173.37758 c 0.710014,0.1727 0.117492,1.04229 -0.287049,1.18009 -1.096279,0.37342 -2.004497,-0.76909 -2.073131,-1.75419 -0.12277,-1.76211 1.581332,-3.01457 3.221327,-2.96617 2.406758,0.071 4.044401,2.40091 3.859214,4.68846 -0.246826,3.04895 -3.222614,5.08204 -6.155605,4.75226 -3.69087,-0.41499 -6.123576,-4.04521 -5.645297,-7.62274 0.57926,-4.33288 4.868285,-7.16737 9.089883,-6.53834 4.975007,0.74128 8.212552,5.69165 7.43138,10.55702 -0.901895,5.61726 -6.515225,9.25868 -12.024162,8.32442 -6.259605,-1.06156 -10.305464,-7.33893 -9.217462,-13.4913 1.220574,-6.90203 8.162743,-11.35273 14.95844,-10.1105 7.544512,1.3791 12.400344,8.98663 11.003544,16.42558"
+           transform="translate(224.66366,-97.596649)" />
+      </g>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.24843375,0,0,0.14155117,-81.713709,158.37597)"
+         id="text4115"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.7382px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4117);display:inline;fill:#df2046;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.7;stroke-dasharray:none;stroke-opacity:1"><tspan
+           x="341.38477"
+           y="-87.428826"
+           id="tspan4826">Recapitula: Jesús Soberanes Islas</tspan></text>
+    </g>
+  </g>
+</svg>
